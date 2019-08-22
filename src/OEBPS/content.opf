@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="2.0" unique-identifier="BookId" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:identifier opf:scheme="UUID" id="BookId">urn:uuid:1b25e6e3-330e-4b9a-8ab6-9312510b8661</dc:identifier>
+    <dc:language>en</dc:language>
+    <dc:title>[Title here]</dc:title>
+  </metadata>
+  <manifest>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="Section0001.xhtml" href="Text/Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item id="fr_preambule.xhtml" href="Text/fr/preambule.xhtml" media-type="application/xhtml+xml"/>
+    <item id="fr_livre_1.xhtml" href="Text/fr/livre_1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="fr_livre_2.xhtml" href="Text/fr/livre_2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="fr_livre_3.xhtml" href="Text/fr/livre_3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="fr_livre_4.xhtml" href="Text/fr/livre_4.xhtml" media-type="application/xhtml+xml"/>
+    <item id="fr_livre_5.xhtml" href="Text/fr/livre_5.xhtml" media-type="application/xhtml+xml"/>
+    <item id="fr_livre_6.xhtml" href="Text/fr/livre_6.xhtml" media-type="application/xhtml+xml"/>
+    <item id="fr_livre_7.xhtml" href="Text/fr/livre_7.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="Section0001.xhtml"/>
+    <itemref idref="fr_preambule.xhtml"/>
+    <itemref idref="fr_livre_1.xhtml"/>
+    <itemref idref="fr_livre_2.xhtml"/>
+    <itemref idref="fr_livre_3.xhtml"/>
+    <itemref idref="fr_livre_4.xhtml"/>
+    <itemref idref="fr_livre_5.xhtml"/>
+    <itemref idref="fr_livre_6.xhtml"/>
+    <itemref idref="fr_livre_7.xhtml"/>
+  </spine>
+  <guide>
+  </guide>
+</package>
