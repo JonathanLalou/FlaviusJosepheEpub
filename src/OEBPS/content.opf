@@ -22,7 +22,19 @@
     <dc:language>grc</dc:language>
     <dc:identifier opf:scheme="UUID" id="BookId">urn:uuid:1b25e6e3-330e-4b9a-8ab6-9312510b8661</dc:identifier>
 
-    <dc:contributor id="producer-1">Jonathan Lalou</dc:contributor>
+    <dc:contributor id="transcriber-1">François-Dominique FOURNIER</dc:contributor>
+    <meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
+
+    <dc:contributor id="producer-1">Philippe Remacle</dc:contributor>
+    <meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
+    <meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
+    <meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
+    <meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+    <meta property="se:url.homepage" refines="#producer-1">http://remacle.org</meta>
+
+    <dc:contributor id="producer-2">Jonathan Lalou</dc:contributor>
+    <meta property="role" refines="#producer-2" scheme="marc:relators">bkp</meta>
+    <meta property="role" refines="#producer-2" scheme="marc:relators">mrk</meta>
 
     <dc:publisher>Jonathan Lalou</dc:publisher>
 
