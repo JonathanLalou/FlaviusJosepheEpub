@@ -4,16 +4,30 @@
     <dc:date opf:event="creation">2019-08-23</dc:date>
     <dc:date opf:event="modification">2019-08-23</dc:date>
     <dc:date opf:event="publication">2019-08-23</dc:date>
-    <dc:contributor>Jonathan Lalou</dc:contributor>
-    <dc:publisher>Jonathan Lalou</dc:publisher>
     <dc:language>fr</dc:language>
     <dc:format>ePub</dc:format>
     <dc:title>La Guerre des Juifs contre les Romains</dc:title>
+
     <dc:creator opf:role="aut">Flavius Josephe</dc:creator>
-    <dc:language>grc</dc:language>
+    <meta property="file-as" refines="#author">Josephe, Flavius</meta>
+    <meta property="se:name.person.full-name" refines="#author">Yosseph ben Ma</meta>
+    <meta property="alternate-script" refines="#author">Φλάβιος Ἰώσηπος</meta>
+    <meta property="alternate-script" refines="#author">יוסף בן מתתיהו</meta>
+    <meta property="se:url.encyclopedia.wikipedia" refines="#author">https://fr.wikipedia.org/wiki/Flavius_Jos%C3%A8phe</meta>
+    <meta property="role" refines="#author" scheme="marc:relators">aut</meta>
+    <dc:creator opf:role="translator">Théodore Reinach</dc:creator>
+    <dc:creator opf:role="translator">René Harmand</dc:creator>
+
     <dc:language>fr-FR</dc:language>
+    <dc:language>grc</dc:language>
     <dc:identifier opf:scheme="UUID" id="BookId">urn:uuid:1b25e6e3-330e-4b9a-8ab6-9312510b8661</dc:identifier>
+
+    <dc:contributor id="producer-1">Jonathan Lalou</dc:contributor>
+
+    <dc:publisher>Jonathan Lalou</dc:publisher>
+
   </metadata>
+
   <manifest>
     <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
     <item id="Section0001.xhtml" href="Text/fr/Section0001.xhtml" media-type="application/xhtml+xml"/>
