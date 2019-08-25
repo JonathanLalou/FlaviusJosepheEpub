@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<package version="2.0" unique-identifier="BookId" xmlns="http://www.idpf.org/2007/opf">
+<?xml version="1.0" encoding="utf-8" ?>
+<package unique-identifier="BookId" version="2.0" xmlns="http://www.idpf.org/2007/opf">
   <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
     <dc:date opf:event="creation">2019-08-23</dc:date>
     <dc:date opf:event="modification">2019-08-25</dc:date>
@@ -8,68 +8,68 @@
     <dc:format>ePub</dc:format>
     <dc:title>La Guerre des Juifs contre les Romains</dc:title>
     <dc:creator opf:role="aut">Flavius Josephe</dc:creator>
-    <meta refines="#author" property="file-as">Josephe, Flavius</meta>
-    <meta refines="#author" property="se:name.person.full-name">Yosseph ben Ma</meta>
-    <meta refines="#author" property="alternate-script">Φλάβιος Ἰώσηπος</meta>
-    <meta refines="#author" property="alternate-script">יוסף בן מתתיהו</meta>
-    <meta refines="#author" property="se:url.encyclopedia.wikipedia">https://fr.wikipedia.org/wiki/Flavius_Jos%C3%A8phe</meta>
-    <meta refines="#author" scheme="marc:relators" property="role">aut</meta>
+    <meta property="file-as" refines="#author">Josephe, Flavius</meta>
+    <meta property="se:name.person.full-name" refines="#author">Yosseph ben Ma</meta>
+    <meta property="alternate-script" refines="#author">Φλάβιος Ἰώσηπος</meta>
+    <meta property="alternate-script" refines="#author">יוסף בן מתתיהו</meta>
+    <meta property="se:url.encyclopedia.wikipedia" refines="#author">https://fr.wikipedia.org/wiki/Flavius_Jos%C3%A8phe</meta>
+    <meta property="role" refines="#author" scheme="marc:relators">aut</meta>
     <dc:creator opf:role="translator">Théodore Reinach</dc:creator>
     <dc:creator opf:role="translator">René Harmand</dc:creator>
     <dc:language>fr-FR</dc:language>
     <dc:language>grc</dc:language>
-    <dc:identifier opf:scheme="UUID" id="BookId">urn:uuid:1b25e6e3-330e-4b9a-8ab6-9312510b8661</dc:identifier>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:1b25e6e3-330e-4b9a-8ab6-9312510b8661</dc:identifier>
     <dc:contributor id="transcriber-1">François-Dominique FOURNIER</dc:contributor>
-    <meta refines="#transcriber-1" scheme="marc:relators" property="role">trc</meta>
+    <meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
     <dc:contributor id="producer-1">Philippe Remacle</dc:contributor>
-    <meta refines="#producer-1" scheme="marc:relators" property="role">blw</meta>
-    <meta refines="#producer-1" scheme="marc:relators" property="role">bkp</meta>
-    <meta refines="#producer-1" scheme="marc:relators" property="role">pfr</meta>
-    <meta refines="#producer-1" scheme="marc:relators" property="role">tyg</meta>
-    <meta refines="#producer-1" property="se:url.homepage">http://remacle.org</meta>
+    <meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
+    <meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
+    <meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
+    <meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+    <meta property="se:url.homepage" refines="#producer-1">http://remacle.org</meta>
     <dc:contributor id="producer-2">Jonathan Lalou</dc:contributor>
-    <meta refines="#producer-2" scheme="marc:relators" property="role">bkp</meta>
-    <meta refines="#producer-2" scheme="marc:relators" property="role">mrk</meta>
+    <meta property="role" refines="#producer-2" scheme="marc:relators">bkp</meta>
+    <meta property="role" refines="#producer-2" scheme="marc:relators">mrk</meta>
     <dc:publisher>Jonathan Lalou</dc:publisher>
-    <meta content="0.9.10" name="Sigil version" />
+    <meta content="0.9.10" name="Sigil version"/>
   </metadata>
   <manifest>
-    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
-    <item id="Section0001.xhtml" href="Text/Section0001.xhtml" media-type="application/xhtml+xml"/>
-    <item id="preambule.xhtml" href="Text/preambule.xhtml" media-type="application/xhtml+xml"/>
-    <item id="notes_preambule.xhtml" href="Text/notes_preambule.xhtml" media-type="application/xhtml+xml"/>
-    <item id="livre_1.xhtml" href="Text/livre_1.xhtml" media-type="application/xhtml+xml"/>
-    <item id="livre_2.xhtml" href="Text/livre_2.xhtml" media-type="application/xhtml+xml"/>
-    <item id="livre_3.xhtml" href="Text/livre_3.xhtml" media-type="application/xhtml+xml"/>
-    <item id="livre_4.xhtml" href="Text/livre_4.xhtml" media-type="application/xhtml+xml"/>
-    <item id="livre_5.xhtml" href="Text/livre_5.xhtml" media-type="application/xhtml+xml"/>
-    <item id="livre_6.xhtml" href="Text/livre_6.xhtml" media-type="application/xhtml+xml"/>
-    <item id="livre_7.xhtml" href="Text/livre_7.xhtml" media-type="application/xhtml+xml"/>
-    <item id="notes_1.xhtml" href="Text/notes_1.xhtml" media-type="application/xhtml+xml"/>
-    <item id="notes_2.xhtml" href="Text/notes_2.xhtml" media-type="application/xhtml+xml"/>
-    <item id="notes_3.xhtml" href="Text/notes_3.xhtml" media-type="application/xhtml+xml"/>
-    <item id="notes_4.xhtml" href="Text/notes_4.xhtml" media-type="application/xhtml+xml"/>
-    <item id="notes_4b.xhtml" href="Text/notes_4b.xhtml" media-type="application/xhtml+xml"/>
-    <item id="notes_4c.xhtml" href="Text/notes_4c.xhtml" media-type="application/xhtml+xml"/>
-    <item id="notes_5.xhtml" href="Text/notes_5.xhtml" media-type="application/xhtml+xml"/>
-    <item id="notes_6.xhtml" href="Text/notes_6.xhtml" media-type="application/xhtml+xml"/>
-    <item id="notes_7.xhtml" href="Text/notes_7.xhtml" media-type="application/xhtml+xml"/>
-    <item id="liber_1.xhtml" href="Text/liber_1.xhtml" media-type="application/xhtml+xml"/>
-    <item id="liber_2.xhtml" href="Text/liber_2.xhtml" media-type="application/xhtml+xml"/>
-    <item id="liber_3.xhtml" href="Text/liber_3.xhtml" media-type="application/xhtml+xml"/>
-    <item id="liber_4.xhtml" href="Text/liber_4.xhtml" media-type="application/xhtml+xml"/>
-    <item id="liber_5.xhtml" href="Text/liber_5.xhtml" media-type="application/xhtml+xml"/>
-    <item id="liber_6.xhtml" href="Text/liber_6.xhtml" media-type="application/xhtml+xml"/>
-    <item id="liber_7.xhtml" href="Text/liber_7.xhtml" media-type="application/xhtml+xml"/>
-    <item id="praefatio.xhtml" href="Text/praefatio.xhtml" media-type="application/xhtml+xml"/>
-    <item id="sgc-toc.css" href="Styles/sgc-toc.css" media-type="text/css"/>
-    <item id="TOC.xhtml" href="Text/TOC.xhtml" media-type="application/xhtml+xml"/>
-    <item id="Section0002.xhtml" href="Text/Section0002.xhtml" media-type="application/xhtml+xml"/>
-    <item id="sgc-index.css" href="Styles/sgc-index.css" media-type="text/css"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="Text/avantPropos.xhtml" id="avantPropos.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/preambule.xhtml" id="preambule.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/notes_preambule.xhtml" id="notes_preambule.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/livre_1.xhtml" id="livre_1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/livre_2.xhtml" id="livre_2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/livre_3.xhtml" id="livre_3.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/livre_4.xhtml" id="livre_4.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/livre_5.xhtml" id="livre_5.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/livre_6.xhtml" id="livre_6.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/livre_7.xhtml" id="livre_7.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/notes_1.xhtml" id="notes_1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/notes_2.xhtml" id="notes_2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/notes_3.xhtml" id="notes_3.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/notes_4.xhtml" id="notes_4.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/notes_4b.xhtml" id="notes_4b.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/notes_4c.xhtml" id="notes_4c.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/notes_5.xhtml" id="notes_5.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/notes_6.xhtml" id="notes_6.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/notes_7.xhtml" id="notes_7.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/liber_1.xhtml" id="liber_1.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/liber_2.xhtml" id="liber_2.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/liber_3.xhtml" id="liber_3.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/liber_4.xhtml" id="liber_4.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/liber_5.xhtml" id="liber_5.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/liber_6.xhtml" id="liber_6.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/liber_7.xhtml" id="liber_7.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/praefatio.xhtml" id="praefatio.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Styles/sgc-toc.css" id="sgc-toc.css" media-type="text/css"/>
+    <item href="Text/TOC.xhtml" id="TOC.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Text/sourcesCreditRemerciements.xhtml" id="sourcesCreditRemerciements.xhtml" media-type="application/xhtml+xml"/>
+    <item href="Styles/sgc-index.css" id="sgc-index.css" media-type="text/css"/>
   </manifest>
   <spine toc="ncx">
-    <itemref idref="Section0001.xhtml"/>
-    <itemref idref="Section0002.xhtml"/>
+    <itemref idref="avantPropos.xhtml"/>
+    <itemref idref="sourcesCreditRemerciements.xhtml"/>
     <itemref idref="preambule.xhtml"/>
     <itemref idref="notes_preambule.xhtml"/>
     <itemref idref="livre_1.xhtml"/>
@@ -94,10 +94,8 @@
     <itemref idref="liber_5.xhtml"/>
     <itemref idref="liber_6.xhtml"/>
     <itemref idref="liber_7.xhtml"/>
-    <itemref idref="Index.xhtml"/>
   </spine>
   <guide>
-    <reference type="toc" title="Table of Contents" href="Text/TOC.xhtml"/>
-    <reference type="index" title="Index" href="Text/Index.xhtml"/>
+    <reference href="Text/TOC.xhtml" title="Table of Contents" type="toc"/>
   </guide>
 </package>
