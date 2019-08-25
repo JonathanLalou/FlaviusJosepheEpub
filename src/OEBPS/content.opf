@@ -2,7 +2,7 @@
 <package version="2.0" unique-identifier="BookId" xmlns="http://www.idpf.org/2007/opf">
   <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
     <dc:date opf:event="creation">2019-08-23</dc:date>
-    <dc:date opf:event="modification">2019-08-23</dc:date>
+    <dc:date opf:event="modification">2019-08-25</dc:date>
     <dc:date opf:event="publication">2019-08-23</dc:date>
     <dc:language>fr</dc:language>
     <dc:format>ePub</dc:format>
@@ -31,6 +31,7 @@
     <meta refines="#producer-2" scheme="marc:relators" property="role">bkp</meta>
     <meta refines="#producer-2" scheme="marc:relators" property="role">mrk</meta>
     <dc:publisher>Jonathan Lalou</dc:publisher>
+    <meta content="0.9.10" name="Sigil version" />
   </metadata>
   <manifest>
     <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>

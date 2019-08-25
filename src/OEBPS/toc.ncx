@@ -218,7 +218,7 @@
       </navPoint>
       <navPoint id="navPoint-35" playOrder="35">
         <navLabel>
-          <text>Chapitre XXXIII. Sédition de « l'aigle d'or ». Supplice d'Antipater. Fin d'Hérode</text>
+          <text>Chapitre XXXIII. Sédition de &#171; l'aigle d'or &#187;. Supplice d'Antipater. Fin d'Hérode</text>
         </navLabel>
         <content src="Text/livre_1.xhtml#sigil_toc_id_33"/>
       </navPoint>
