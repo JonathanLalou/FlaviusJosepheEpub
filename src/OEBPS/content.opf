@@ -7,39 +7,31 @@
     <dc:language>fr</dc:language>
     <dc:format>ePub</dc:format>
     <dc:title>La Guerre des Juifs contre les Romains</dc:title>
-
     <dc:creator opf:role="aut">Flavius Josephe</dc:creator>
-    <meta property="file-as" refines="#author">Josephe, Flavius</meta>
-    <meta property="se:name.person.full-name" refines="#author">Yosseph ben Ma</meta>
-    <meta property="alternate-script" refines="#author">Φλάβιος Ἰώσηπος</meta>
-    <meta property="alternate-script" refines="#author">יוסף בן מתתיהו</meta>
-    <meta property="se:url.encyclopedia.wikipedia" refines="#author">https://fr.wikipedia.org/wiki/Flavius_Jos%C3%A8phe</meta>
-    <meta property="role" refines="#author" scheme="marc:relators">aut</meta>
+    <meta refines="#author" property="file-as">Josephe, Flavius</meta>
+    <meta refines="#author" property="se:name.person.full-name">Yosseph ben Ma</meta>
+    <meta refines="#author" property="alternate-script">Φλάβιος Ἰώσηπος</meta>
+    <meta refines="#author" property="alternate-script">יוסף בן מתתיהו</meta>
+    <meta refines="#author" property="se:url.encyclopedia.wikipedia">https://fr.wikipedia.org/wiki/Flavius_Jos%C3%A8phe</meta>
+    <meta refines="#author" scheme="marc:relators" property="role">aut</meta>
     <dc:creator opf:role="translator">Théodore Reinach</dc:creator>
     <dc:creator opf:role="translator">René Harmand</dc:creator>
-
     <dc:language>fr-FR</dc:language>
     <dc:language>grc</dc:language>
     <dc:identifier opf:scheme="UUID" id="BookId">urn:uuid:1b25e6e3-330e-4b9a-8ab6-9312510b8661</dc:identifier>
-
     <dc:contributor id="transcriber-1">François-Dominique FOURNIER</dc:contributor>
-    <meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-
+    <meta refines="#transcriber-1" scheme="marc:relators" property="role">trc</meta>
     <dc:contributor id="producer-1">Philippe Remacle</dc:contributor>
-    <meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
-    <meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
-    <meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
-    <meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
-    <meta property="se:url.homepage" refines="#producer-1">http://remacle.org</meta>
-
+    <meta refines="#producer-1" scheme="marc:relators" property="role">blw</meta>
+    <meta refines="#producer-1" scheme="marc:relators" property="role">bkp</meta>
+    <meta refines="#producer-1" scheme="marc:relators" property="role">pfr</meta>
+    <meta refines="#producer-1" scheme="marc:relators" property="role">tyg</meta>
+    <meta refines="#producer-1" property="se:url.homepage">http://remacle.org</meta>
     <dc:contributor id="producer-2">Jonathan Lalou</dc:contributor>
-    <meta property="role" refines="#producer-2" scheme="marc:relators">bkp</meta>
-    <meta property="role" refines="#producer-2" scheme="marc:relators">mrk</meta>
-
+    <meta refines="#producer-2" scheme="marc:relators" property="role">bkp</meta>
+    <meta refines="#producer-2" scheme="marc:relators" property="role">mrk</meta>
     <dc:publisher>Jonathan Lalou</dc:publisher>
-
   </metadata>
-
   <manifest>
     <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
     <item id="Section0001.xhtml" href="Text/Section0001.xhtml" media-type="application/xhtml+xml"/>
@@ -69,10 +61,14 @@
     <item id="liber_6.xhtml" href="Text/liber_6.xhtml" media-type="application/xhtml+xml"/>
     <item id="liber_7.xhtml" href="Text/liber_7.xhtml" media-type="application/xhtml+xml"/>
     <item id="praefatio.xhtml" href="Text/praefatio.xhtml" media-type="application/xhtml+xml"/>
+    <item id="sgc-toc.css" href="Styles/sgc-toc.css" media-type="text/css"/>
+    <item id="TOC.xhtml" href="Text/TOC.xhtml" media-type="application/xhtml+xml"/>
   </manifest>
   <spine toc="ncx">
+    <itemref idref="TOC.xhtml"/>
     <itemref idref="Section0001.xhtml"/>
     <itemref idref="preambule.xhtml"/>
+    <itemref idref="notes_preambule.xhtml"/>
     <itemref idref="livre_1.xhtml"/>
     <itemref idref="notes_1.xhtml"/>
     <itemref idref="livre_2.xhtml"/>
@@ -81,8 +77,6 @@
     <itemref idref="notes_3.xhtml"/>
     <itemref idref="livre_4.xhtml"/>
     <itemref idref="notes_4.xhtml"/>
-    <itemref idref="notes_4b.xhtml"/>
-    <itemref idref="notes_4c.xhtml"/>
     <itemref idref="livre_5.xhtml"/>
     <itemref idref="notes_5.xhtml"/>
     <itemref idref="livre_6.xhtml"/>
@@ -99,5 +93,6 @@
     <itemref idref="liber_7.xhtml"/>
   </spine>
   <guide>
+    <reference type="toc" title="Table of Contents" href="Text/TOC.xhtml"/>
   </guide>
 </package>
