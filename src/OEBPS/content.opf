@@ -42,33 +42,33 @@
 
   <manifest>
     <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
-    <item id="Section0001.xhtml" href="Text/fr/Section0001.xhtml" media-type="application/xhtml+xml"/>
-    <item id="preambule.xhtml" href="Text/fr/preambule.xhtml" media-type="application/xhtml+xml"/>
-    <item id="notes_preambule.xhtml" href="Text/fr/notes_preambule.xhtml" media-type="application/xhtml+xml"/>
-    <item id="livre_1.xhtml" href="Text/fr/livre_1.xhtml" media-type="application/xhtml+xml"/>
-    <item id="livre_2.xhtml" href="Text/fr/livre_2.xhtml" media-type="application/xhtml+xml"/>
-    <item id="livre_3.xhtml" href="Text/fr/livre_3.xhtml" media-type="application/xhtml+xml"/>
-    <item id="livre_4.xhtml" href="Text/fr/livre_4.xhtml" media-type="application/xhtml+xml"/>
-    <item id="livre_5.xhtml" href="Text/fr/livre_5.xhtml" media-type="application/xhtml+xml"/>
-    <item id="livre_6.xhtml" href="Text/fr/livre_6.xhtml" media-type="application/xhtml+xml"/>
-    <item id="livre_7.xhtml" href="Text/fr/livre_7.xhtml" media-type="application/xhtml+xml"/>
-    <item id="notes_1.xhtml" href="Text/fr/notes_1.xhtml" media-type="application/xhtml+xml"/>
-    <item id="notes_2.xhtml" href="Text/fr/notes_2.xhtml" media-type="application/xhtml+xml"/>
-    <item id="notes_3.xhtml" href="Text/fr/notes_3.xhtml" media-type="application/xhtml+xml"/>
-    <item id="notes_4.xhtml" href="Text/fr/notes_4.xhtml" media-type="application/xhtml+xml"/>
-    <item id="notes_4b.xhtml" href="Text/fr/notes_4b.xhtml" media-type="application/xhtml+xml"/>
-    <item id="notes_4c.xhtml" href="Text/fr/notes_4c.xhtml" media-type="application/xhtml+xml"/>
-    <item id="notes_5.xhtml" href="Text/fr/notes_5.xhtml" media-type="application/xhtml+xml"/>
-    <item id="notes_6.xhtml" href="Text/fr/notes_6.xhtml" media-type="application/xhtml+xml"/>
-    <item id="notes_7.xhtml" href="Text/fr/notes_7.xhtml" media-type="application/xhtml+xml"/>
-    <item id="liber_1.xhtml" href="Text/gr/liber_1.xhtml" media-type="application/xhtml+xml"/>
-    <item id="liber_2.xhtml" href="Text/gr/liber_2.xhtml" media-type="application/xhtml+xml"/>
-    <item id="liber_3.xhtml" href="Text/gr/liber_3.xhtml" media-type="application/xhtml+xml"/>
-    <item id="liber_4.xhtml" href="Text/gr/liber_4.xhtml" media-type="application/xhtml+xml"/>
-    <item id="liber_5.xhtml" href="Text/gr/liber_5.xhtml" media-type="application/xhtml+xml"/>
-    <item id="liber_6.xhtml" href="Text/gr/liber_6.xhtml" media-type="application/xhtml+xml"/>
-    <item id="liber_7.xhtml" href="Text/gr/liber_7.xhtml" media-type="application/xhtml+xml"/>
-    <item id="praefatio.xhtml" href="Text/gr/praefatio.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0001.xhtml" href="Text/Section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item id="preambule.xhtml" href="Text/preambule.xhtml" media-type="application/xhtml+xml"/>
+    <item id="notes_preambule.xhtml" href="Text/notes_preambule.xhtml" media-type="application/xhtml+xml"/>
+    <item id="livre_1.xhtml" href="Text/livre_1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="livre_2.xhtml" href="Text/livre_2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="livre_3.xhtml" href="Text/livre_3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="livre_4.xhtml" href="Text/livre_4.xhtml" media-type="application/xhtml+xml"/>
+    <item id="livre_5.xhtml" href="Text/livre_5.xhtml" media-type="application/xhtml+xml"/>
+    <item id="livre_6.xhtml" href="Text/livre_6.xhtml" media-type="application/xhtml+xml"/>
+    <item id="livre_7.xhtml" href="Text/livre_7.xhtml" media-type="application/xhtml+xml"/>
+    <item id="notes_1.xhtml" href="Text/notes_1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="notes_2.xhtml" href="Text/notes_2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="notes_3.xhtml" href="Text/notes_3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="notes_4.xhtml" href="Text/notes_4.xhtml" media-type="application/xhtml+xml"/>
+    <item id="notes_4b.xhtml" href="Text/notes_4b.xhtml" media-type="application/xhtml+xml"/>
+    <item id="notes_4c.xhtml" href="Text/notes_4c.xhtml" media-type="application/xhtml+xml"/>
+    <item id="notes_5.xhtml" href="Text/notes_5.xhtml" media-type="application/xhtml+xml"/>
+    <item id="notes_6.xhtml" href="Text/notes_6.xhtml" media-type="application/xhtml+xml"/>
+    <item id="notes_7.xhtml" href="Text/notes_7.xhtml" media-type="application/xhtml+xml"/>
+    <item id="liber_1.xhtml" href="Text/liber_1.xhtml" media-type="application/xhtml+xml"/>
+    <item id="liber_2.xhtml" href="Text/liber_2.xhtml" media-type="application/xhtml+xml"/>
+    <item id="liber_3.xhtml" href="Text/liber_3.xhtml" media-type="application/xhtml+xml"/>
+    <item id="liber_4.xhtml" href="Text/liber_4.xhtml" media-type="application/xhtml+xml"/>
+    <item id="liber_5.xhtml" href="Text/liber_5.xhtml" media-type="application/xhtml+xml"/>
+    <item id="liber_6.xhtml" href="Text/liber_6.xhtml" media-type="application/xhtml+xml"/>
+    <item id="liber_7.xhtml" href="Text/liber_7.xhtml" media-type="application/xhtml+xml"/>
+    <item id="praefatio.xhtml" href="Text/praefatio.xhtml" media-type="application/xhtml+xml"/>
   </manifest>
   <spine toc="ncx">
     <itemref idref="Section0001.xhtml"/>
