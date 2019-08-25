@@ -64,10 +64,12 @@
     <item id="praefatio.xhtml" href="Text/praefatio.xhtml" media-type="application/xhtml+xml"/>
     <item id="sgc-toc.css" href="Styles/sgc-toc.css" media-type="text/css"/>
     <item id="TOC.xhtml" href="Text/TOC.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0002.xhtml" href="Text/Section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item id="sgc-index.css" href="Styles/sgc-index.css" media-type="text/css"/>
   </manifest>
   <spine toc="ncx">
-    <itemref idref="TOC.xhtml"/>
     <itemref idref="Section0001.xhtml"/>
+    <itemref idref="Section0002.xhtml"/>
     <itemref idref="preambule.xhtml"/>
     <itemref idref="notes_preambule.xhtml"/>
     <itemref idref="livre_1.xhtml"/>
@@ -92,8 +94,10 @@
     <itemref idref="liber_5.xhtml"/>
     <itemref idref="liber_6.xhtml"/>
     <itemref idref="liber_7.xhtml"/>
+    <itemref idref="Index.xhtml"/>
   </spine>
   <guide>
     <reference type="toc" title="Table of Contents" href="Text/TOC.xhtml"/>
+    <reference type="index" title="Index" href="Text/Index.xhtml"/>
   </guide>
 </package>
