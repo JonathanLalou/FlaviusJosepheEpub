@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package version="2.0" unique-identifier="BookId" xmlns="http://www.idpf.org/2007/opf">
   <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+  <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:1b25e6e3-330e-4b9a-8ab6-9312510b8661</dc:identifier>
   <dc:contributor opf:role="trl">Théodore REINACH</dc:contributor>
   <dc:contributor opf:role="trl">René HARMAND</dc:contributor>
   <dc:contributor opf:role="trc">François-Dominique FOURNIER</dc:contributor>
