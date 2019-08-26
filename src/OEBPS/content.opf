@@ -1,44 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package version="2.0" unique-identifier="BookId" xmlns="http://www.idpf.org/2007/opf">
-  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <dc:creator alternate-script="Φλάβιος Ἰώσηπος" opf:file-as="Josephe, Flavius" opf:role="aut">Flavius Josephe</dc:creator>
-    <dc:date opf:event="creation">2019-08-23</dc:date>
-    <meta name="Sigil version" content="0.9.10" />
-    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">2019-08-25</dc:date>
-    <!--
-        <dc:date opf:event="modification">2019-08-25</dc:date>
-        <dc:date opf:event="publication">2019-08-23</dc:date>
-        <dc:language>fr</dc:language>
-        <dc:format>ePub</dc:format>
-        <dc:title>La Guerre des Juifs contre les Romains</dc:title>
-        <dc:creator opf:role="aut">Flavius Josephe</dc:creator>
-        <meta property="file-as" refines="#author">Josephe, Flavius</meta>
-        <meta property="se:name.person.full-name" refines="#author">Yosseph ben Ma</meta>
-        <meta property="alternate-script" refines="#author">Φλάβιος Ἰώσηπος</meta>
-        <meta property="alternate-script" refines="#author">יוסף בן מתתיהו</meta>
-        <meta property="se:url.encyclopedia.wikipedia" refines="#author">https://fr.wikipedia.org/wiki/Flavius_Jos%C3%A8phe</meta>
-        <meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-        <dc:creator opf:role="translator">Théodore Reinach</dc:creator>
-        <dc:creator opf:role="translator">René Harmand</dc:creator>
-        <dc:language>fr-FR</dc:language>
-        <dc:language>grc</dc:language>
-        <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:1b25e6e3-330e-4b9a-8ab6-9312510b8661</dc:identifier>
-        <dc:contributor id="transcriber-1">François-Dominique FOURNIER</dc:contributor>
-        <meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-        <dc:contributor id="producer-1">Philippe Remacle</dc:contributor>
-        <meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
-        <meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
-        <meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
-        <meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
-        <meta property="se:url.homepage" refines="#producer-1">http://remacle.org</meta>
-        <dc:contributor id="producer-2">Jonathan Lalou</dc:contributor>
-        <meta property="role" refines="#producer-2" scheme="marc:relators">bkp</meta>
-        <meta property="role" refines="#producer-2" scheme="marc:relators">mrk</meta>
-        <dc:publisher>Jonathan Lalou</dc:publisher>
-        <meta content="0.9.10" name="Sigil version"/>
-    -->
-  </metadata>
-  <manifest>
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+  <dc:contributor opf:role="trl">Théodore REINACH</dc:contributor>
+  <dc:contributor opf:role="trl">René HARMAND</dc:contributor>
+  <dc:contributor opf:role="trc">François-Dominique FOURNIER</dc:contributor>
+  <dc:contributor opf:role="blw">Philippe REMACLE</dc:contributor>
+  <dc:contributor opf:role="bkp">Philippe REMACLE</dc:contributor>
+  <dc:contributor opf:role="pfr">Philippe REMACLE</dc:contributor>
+  <dc:contributor opf:role="tyg">Philippe REMACLE</dc:contributor>
+  <dc:contributor opf:role="bkp">Jonathan LALOU</dc:contributor>
+  <dc:contributor opf:role="mrk">Jonathan LALOU</dc:contributor>
+  <dc:rights>Creative Commons 'BY-NC-SA': Attribution + Pas d’Utilisation Commerciale + Partage dans les mêmes conditions</dc:rights>
+  <dc:publisher>Jonathan Lalou</dc:publisher>
+  <dc:language>fr-FR</dc:language>
+  <dc:language>grc</dc:language>
+  <dc:creator opf:file-as="Josephe, Flavius" alternate-script="Φλάβιος Ἰώσηπος" opf:role="aut">Flavius Josephe</dc:creator>
+  <dc:date opf:event="creation">2019-08-23</dc:date>
+  <meta name="Sigil version" content="0.9.10" />
+<!--
+  <dc:date opf:event="modification">2019-08-25</dc:date>
+  <dc:date opf:event="publication">2019-08-23</dc:date>
+  <dc:language>fr</dc:language>
+  <dc:format>ePub</dc:format>
+  <dc:title>La Guerre des Juifs contre les Romains</dc:title>
+  <dc:creator opf:role="aut">Flavius Josephe</dc:creator>
+  <meta property="file-as" refines="#author">Josephe, Flavius</meta>
+  <meta property="se:name.person.full-name" refines="#author">Yosseph ben Ma</meta>
+  <meta property="alternate-script" refines="#author">Φλάβιος Ἰώσηπος</meta>
+  <meta property="alternate-script" refines="#author">יוסף בן מתתיהו</meta>
+  <meta property="se:url.encyclopedia.wikipedia" refines="#author">https://fr.wikipedia.org/wiki/Flavius_Jos%C3%A8phe</meta>
+  <meta property="role" refines="#author" scheme="marc:relators">aut</meta>
+  <dc:creator opf:role="translator">Théodore Reinach</dc:creator>
+  <dc:creator opf:role="translator">René Harmand</dc:creator>
+  <dc:language>fr-FR</dc:language>
+  <dc:language>grc</dc:language>
+  <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:1b25e6e3-330e-4b9a-8ab6-9312510b8661</dc:identifier>
+  <dc:contributor id="transcriber-1">François-Dominique FOURNIER</dc:contributor>
+  <meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
+  <dc:contributor id="producer-1">Philippe Remacle</dc:contributor>
+  <meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
+  <meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
+  <meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
+  <meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+  <meta property="se:url.homepage" refines="#producer-1">http://remacle.org</meta>
+  <dc:contributor id="producer-2">Jonathan Lalou</dc:contributor>
+  <meta property="role" refines="#producer-2" scheme="marc:relators">bkp</meta>
+  <meta property="role" refines="#producer-2" scheme="marc:relators">mrk</meta>
+  <dc:publisher>Jonathan Lalou</dc:publisher>
+  <meta content="0.9.10" name="Sigil version"/>
+-->
+</metadata>
+<manifest>
     <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
     <item id="avantPropos.xhtml" href="Text/avantPropos.xhtml" media-type="application/xhtml+xml"/>
     <item id="preambule.xhtml" href="Text/preambule.xhtml" media-type="application/xhtml+xml"/>
