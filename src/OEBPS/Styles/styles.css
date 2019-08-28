@@ -1,3 +1,8 @@
 body{
     text-align: justify;
 }
+table, th, td {
+    border: 2px solid grey;
+    /*border: 2px; */
+    padding: 2px;
+}
