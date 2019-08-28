@@ -19,6 +19,7 @@
     <dc:date opf:event="creation">2019-08-23</dc:date>
     <meta name="Sigil version" content="0.9.10" />
     <meta name="cover" content="cover.jpg" />
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">2019-08-28</dc:date>
   </metadata>
   <manifest>
     <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
@@ -53,6 +54,7 @@
     <item id="sgc-index.css" href="Styles/sgc-index.css" media-type="text/css"/>
     <item id="cover.jpg" href="Images/cover.jpg" media-type="image/jpeg"/>
     <item id="cover.xhtml" href="Text/cover.xhtml" media-type="application/xhtml+xml"/>
+    <item id="by-nc-sa.png" href="Images/by-nc-sa.png" media-type="image/png"/>
   </manifest>
   <spine toc="ncx">
     <itemref idref="cover.xhtml"/>
