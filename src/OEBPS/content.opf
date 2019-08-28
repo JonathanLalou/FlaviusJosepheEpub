@@ -55,12 +55,14 @@
     <item id="cover.jpg" href="Images/cover.jpg" media-type="image/jpeg"/>
     <item id="cover.xhtml" href="Text/cover.xhtml" media-type="application/xhtml+xml"/>
     <item id="by-nc-sa.png" href="Images/by-nc-sa.png" media-type="image/png"/>
+    <item id="avantProposAuxAntiquitesJudaiques.xhtml" href="Text/avantProposAuxAntiquitesJudaiques.xhtml" media-type="application/xhtml+xml"/>
   </manifest>
   <spine toc="ncx">
     <itemref idref="cover.xhtml"/>
     <itemref idref="TOC.xhtml"/>
     <itemref idref="avantPropos.xhtml"/>
     <itemref idref="sourcesCreditRemerciements.xhtml"/>
+    <itemref idref="avantProposAuxAntiquitesJudaiques.xhtml"/>
     <itemref idref="preambule.xhtml"/>
     <itemref idref="notes_preambule.xhtml"/>
     <itemref idref="livre_1.xhtml"/>
@@ -87,7 +89,7 @@
     <itemref idref="liber_7.xhtml"/>
   </spine>
   <guide>
-    <reference type="toc" title="Table of Contents" href="Text/TOC.xhtml"/>
     <reference type="cover" title="Cover" href="Text/cover.xhtml"/>
+    <reference type="toc" title="Table of Contents" href="Text/TOC.xhtml"/>
   </guide>
 </package>
