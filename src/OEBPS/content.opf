@@ -53,6 +53,7 @@
     <item id="TOC.xhtml" href="Text/TOC.xhtml" media-type="application/xhtml+xml"/>
     <item id="sourcesCreditRemerciements.xhtml" href="Text/sourcesCreditRemerciements.xhtml" media-type="application/xhtml+xml"/>
     <item id="sgc-index.css" href="Styles/sgc-index.css" media-type="text/css"/>
+    <item id="styles.css" href="Styles/styles.css" media-type="text/css"/>
     <item id="cover.jpg" href="Images/cover.jpg" media-type="image/jpeg"/>
     <item id="cover.xhtml" href="Text/cover.xhtml" media-type="application/xhtml+xml"/>
     <item id="by-nc-sa.png" href="Images/by-nc-sa.png" media-type="image/png"/>
