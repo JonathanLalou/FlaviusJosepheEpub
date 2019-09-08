@@ -8,33 +8,44 @@
 </head>
 <body>
 <h1>Sources, crédits et remerciements</h1>
+<h2>Licence</h2>
 <p>Le present ouvrage est mis a la disposition des lecteurs sous licence <em>Creative Commons</em> <strong>BY NC SA</strong>:</p>
 <p><img alt="by-nc-sa" src="../Images/by-nc-sa.png"/><br/></p>
-<!--StartFragment--><!--EndFragment--><blockquote><span style="font-style: italic;">Attribution + Pas d’Utilisation Commerciale + Partage dans les mêmes conditions<br/></span></blockquote>
+<blockquote><span style="font-style: italic;">Attribution + Pas d’Utilisation Commerciale + Partage dans les mêmes conditions<br/></span></blockquote>
 Lien: <a href="https://creativecommons.fr/licences/#toc-les-licences-">Licences<em> Creative Commons</em></a>
-<p><br/></p>
+<h2>Sources</h2>
 <p>
-    L'ouvrage numerise est disponible aupres de la Bibliotheque Nationale de France, aux liens suivants:&nbsp;</p>
+    L'ouvrage numerisé est disponible aupres de la Bibliotheque Nationale de France, aux liens suivants:&nbsp;</p>
 <p></p>
 <ul><li>lien pour&nbsp;<a href="https://gallica.bnf.fr/ark:/12148/bpt6k75908v.r=Theodore%20Reinach%20%281860-1928%29?rk=42918;4 ">les livres I a III</a><br/></li>
 <li>lien&nbsp;<a href="https://gallica.bnf.fr/ark:/12148/bpt6k759096.r=Theodore%20Reinach%20%281860-1928%29?rk=21459;2 ">pour les livres IV a VII</a><br/></li>
 </ul>
 <p></p>
-<p>Le texte en francais a ete numerise par François-Dominique FOURNIER et mise en ligne par Philippe REMACLE à&nbsp;l'adresse suivante: �<a href="http://remacle.org/bloodwolf/historiens/Flajose/intro.htm#GUERRE_">http://remacle.org/bloodwolf/historiens/Flajose/intro.htm#GUERRE_</a>.
-    M'etant longtemps abbreuve aupres des sources classiques qu'il avait numerisees, je rends  hommage au Professeur Remacle pour son oeuvre litteralement monumentale. Sa disparition est une terrible perte pour la transmission de la culture greco-latine.&nbsp;</p>
-<p>Quant au texte grec, il a ete mis en ligne a ce lien: <a href="http://khazarzar.skeptik.net/books/flavius/bj/gr/">http://khazarzar.skeptik.net/books/flavius/bj/gr/</a> a partir de la version de Niese et Weidmann (Berlin, 1895).&nbsp;</p>
-<p>Les images de couverture sont issues des archives personnelles de l'editeur.</p>
-<p>Concernant ce livre electronique proprement dit, son code source est ouvert et disponible sur un depot public a cette adresse: <a href="https://github.com/JonathanLalou/FlaviusJosepheEpub">https://github.com/JonathanLalou/FlaviusJosepheEpub</a>&nbsp;</p>
-<p>J'encourage et remercie d'avance quiconque me fera part de coquilles a corriger, ou mieux encore, qui soumettra une <em>pull request</em> reparant l'erreur.
-    Je reste joignable par email (prenom.nom@gmail.com).&nbsp;</p>
-<p>L'edition de ce livre a utilise les logiciels suivants:&nbsp;</p>
+<p>Le texte en francais a été numérisé par François-Dominique FOURNIER et mis en ligne par Philippe REMACLE à&nbsp;l'adresse suivante: <a href="http://remacle.org/bloodwolf/historiens/Flajose/intro.htm#GUERRE_">http://remacle.org/bloodwolf/historiens/Flajose/intro.htm#GUERRE_</a>.&nbsp;</p>
+<p>M'etant longtemps abbreuve aupres des sources classiques qu'il avait pris soin de passer au numérique, je rends  hommage au Professeur Remacle pour son oeuvre -littéralement- monumentale. Sa disparition est une terrible perte pour la transmission de la culture greco-latine.&nbsp;</p>
+<p>Quant au texte grec, il a été mis en ligne à ce lien: <a href="http://khazarzar.skeptik.net/books/flavius/bj/gr/">http://khazarzar.skeptik.net/books/flavius/bj/gr/</a> à partir de la version de Niese et Weidmann (Berlin, 1895).&nbsp;</p>
+<p>Les images de couverture sont issues des archives personnelles de l'éditeur.</p>
+<h2>Notes techniques</h2>
+<p>Concernant ce livre électronique proprement dit, il est au format ePub 2. Son code source est ouvert et disponible sur un dépôt public à cette adresse: <a href="https://github.com/JonathanLalou/FlaviusJosepheEpub">https://github.com/JonathanLalou/FlaviusJosepheEpub</a>&nbsp;</p>
+<p>Le travail d'édition et d'amendement a surtout consisté à "jouer" avec les expressions régulières. En effet, la version numérisée originelle par François-Dominique Fournier et Philippe Remacle étant un document Word converti en HTML, des milliers de balises et de styles propres à Microsoft se sont retrouvés dans le texte. Aussi a-t-il été préférable de repartir sur du mode texte pur -et non des sources HTML, massivement incompatibles avec les standards, sans même parler de la taille de l'archive générée-, puis d'identifier les blocs de texte à relier.</p>
+<p>Ainsi, par exemple, un paragraphe comme ceci:</p>
+
+<p><code>2. [556] Un jour, en effet, Hérode rassembla ses parents et amis[269], fit placer près de lui ces enfants, et, les yeux pleins de larmes, parla en ces termes: « Un démon jaloux</code></p>
+<p>est identifié comme 2e alinéa du Livre I, chapitre XXVIII, menant à l'ancre numéro 556 du texte grec, contenant la note numéro 269 du professeur Reinach.</p>
+<p>Après nettoyage et "moulinage" grâce aux expressions régulières, le paragraphe devient:<br/><br/></p>
+<p><code><a class="fr alinea" id="fr_livre_1_alinea_556">&lt;p&gt;&lt;a class="fr alinea" id="fr_livre_1_alinea_556"&gt;2.&lt;/a&gt;&lt;a class="toGreek" href="liber_1.xhtml#gr_livre_1_alinea_556"&gt;&lt;em&gt;[556]&lt;/em&gt;&lt;/a&gt; Un jour, en effet, Hérode rassembla ses parents et amis&lt;a id="livre_1_note_269" class="bookToNote" href="notes_1.xhtml#livre_1_note_269"&gt;&lt;sup&gt;269&lt;/sup&gt;&lt;/a&gt;, fit placer près de lui ces enfants, et, les yeux pleins de larmes, parla en ces termes : &amp;#171; un démon jaloux...</a>&lt;/p&gt;</code></p>
+<p>Les mêmes opérations doivent êtres effectuées sur les notes et le texte grec, afin de lier les différents blocs de texte entre eux, l'objectif étant d'avoir peu (voire pas du tout) de liens brisés.</p>
+<p>L'exercice est plus compliqué qu'il n'y parait, notamment parce que texte originel n'a pas suivi les mêmes conventions tout au long des chapitres. Néanmoins, après quelques essais, le résultat s'avère satisfaisant, les interventions et corrections humaines se font de moins en moins nécessaires.</p>
+<p>L'historique des changements apparait sur le dépôt GitHub.</p>
+<p>Quiconque fera part de coquilles à corriger, ou mieux encore, qui soumettra une <em>pull request</em> réparant l'erreur, est encouragé et remercié d'avance.
+    L'éditeur reste joignable par courrier électronique (prénom.nom@gmail.com).&nbsp;</p>
+<h2>Crédits</h2>
+<p>L'édition de ce livre a utilisé les logiciels suivants:&nbsp;</p>
 <p></p>
-<ul><li>Sigil&nbsp;<br/></li>
-<li>Notepad++&nbsp;<br/></li>
-<li>IntelliJ IDEA Community Edition&nbsp;<br/></li>
-<li>Git<br/></li>
+<ul><li>Sigil:&nbsp;<a href="https://sigil-ebook.com/">https://sigil-ebook.com/</a>&nbsp;<br/></li>
+<li>Notepad++ :&nbsp;<a href="https://notepad-plus-plus.org/fr/">https://notepad-plus-plus.org/fr/</a><br/></li>
+<li>IntelliJ IDEA Community Edition:&nbsp;<a href="https://www.jetbrains.com/idea/">https://www.jetbrains.com/idea/</a><br/></li>
+<li>Git:&nbsp;<a href="https://git-scm.com/">https://git-scm.com/</a></li>
 </ul>
-<p></p>
-<div><br/></div>
 </body>
 </html>
