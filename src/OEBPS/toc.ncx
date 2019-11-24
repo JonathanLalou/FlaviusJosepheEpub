@@ -25,6 +25,12 @@
       </navLabel>
       <content src="Text/sourcesCreditRemerciements.xhtml"/>
     </navPoint>
+    <navPoint id="navPoint-2b" playOrder="2">
+      <navLabel>
+        <text>Cartes</text>
+      </navLabel>
+      <content src="Text/cartes.xhtml"/>
+    </navPoint>
     <navPoint id="navPoint-3" playOrder="3">
       <navLabel>
         <text>Avant-Propos aux Antiquités Judaïques</text>
