@@ -20,7 +20,7 @@
     <dc:date opf:event="creation">2019-08-23</dc:date>
     <meta name="Sigil version" content="0.9.10" />
     <meta name="cover" content="cover.jpg" />
-    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">2019-08-28</dc:date>
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">2019-09-16</dc:date>
   </metadata>
   <manifest>
     <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
@@ -58,12 +58,18 @@
     <item id="cover.xhtml" href="Text/cover.xhtml" media-type="application/xhtml+xml"/>
     <item id="by-nc-sa.png" href="Images/by-nc-sa.png" media-type="image/png"/>
     <item id="avantProposAuxAntiquitesJudaiques.xhtml" href="Text/avantProposAuxAntiquitesJudaiques.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cartes.xhtml" href="Text/cartes.xhtml" media-type="application/xhtml+xml"/>
+<!--    <item id="Quelques_villes_de_l_Antiquité.svg" href="Images/Quelques_villes_de_l_Antiquit%C3%A9.svg" media-type="image/svg+xml"/>-->
+    <item id="Galilee_et_Samarie_dans_Guerre.svg" href="Images/Galilee_et_Samarie_dans_Guerre.svg" media-type="image/svg+xml"/>
+<!--    <item id="Judee_dans_Guerre.svg" href="Images/Judee_dans_Guerre.svg" media-type="image/svg+xml"/>-->
+<!--    <item id="Judee_et_ses_environs_dans_Guerre.svg" href="Images/Judee_et_ses_environs_dans_Guerre.svg" media-type="image/svg+xml"/>-->
   </manifest>
   <spine toc="ncx">
     <itemref idref="cover.xhtml"/>
     <itemref idref="TOC.xhtml"/>
     <itemref idref="avantPropos.xhtml"/>
     <itemref idref="sourcesCreditRemerciements.xhtml"/>
+    <itemref idref="cartes.xhtml"/>
     <itemref idref="avantProposAuxAntiquitesJudaiques.xhtml"/>
     <itemref idref="preambule.xhtml"/>
     <itemref idref="notes_preambule.xhtml"/>
