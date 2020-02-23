@@ -10,7 +10,7 @@
     <meta name="dtb:maxPageNumber" content="0"/>
   </head>
   <docTitle>
-    <text>Unknown</text>
+    <text>La Guerre des Judéens</text>
   </docTitle>
   <navMap>
     <navPoint id="navPoint-1" playOrder="1">
@@ -25,1428 +25,1428 @@
       </navLabel>
       <content src="Text/sourcesCreditRemerciements.xhtml"/>
     </navPoint>
-    <navPoint id="navPoint-2b" playOrder="2">
+    <navPoint id="navPoint-2b" playOrder="3">
       <navLabel>
         <text>Cartes</text>
       </navLabel>
       <content src="Text/cartes.xhtml"/>
     </navPoint>
-    <navPoint id="navPoint-3" playOrder="3">
+    <navPoint id="navPoint-3" playOrder="4">
       <navLabel>
         <text>Avant-Propos aux Antiquités Judaïques</text>
       </navLabel>
       <content src="Text/avantProposAuxAntiquitesJudaiques.xhtml"/>
     </navPoint>
-    <navPoint id="navPoint-4" playOrder="4">
+    <navPoint id="navPoint-4" playOrder="5">
       <navLabel>
         <text>Préambule</text>
       </navLabel>
       <content src="Text/preambule.xhtml"/>
     </navPoint>
-    <navPoint id="navPoint-5" playOrder="5">
+    <navPoint id="navPoint-5" playOrder="6">
       <navLabel>
         <text>Livre Ier: Depuis le soulèvement des Macchabées jusqu'à la mon d'Hérode (167-4 av. J.-C.)</text>
       </navLabel>
       <content src="Text/livre_1.xhtml"/>
-      <navPoint id="navPoint-6" playOrder="6">
+      <navPoint id="navPoint-6" playOrder="7">
         <navLabel>
           <text>Chapitre I. Dissensions entre les Juifs. Prise de Jérusalem par Antiochus Épiphane. Mattathias et Judas Macchabée</text>
         </navLabel>
         <content src="Text/livre_1.xhtml#sigil_toc_id_1"/>
       </navPoint>
-      <navPoint id="navPoint-7" playOrder="7">
+      <navPoint id="navPoint-7" playOrder="8">
         <navLabel>
           <text>Chapitre II. Jonathan, Simon et Jean Hyrcan</text>
         </navLabel>
         <content src="Text/livre_1.xhtml#sigil_toc_id_2"/>
       </navPoint>
-      <navPoint id="navPoint-8" playOrder="8">
+      <navPoint id="navPoint-8" playOrder="9">
         <navLabel>
           <text>Chapitre III. Règne d'Aristobule</text>
         </navLabel>
         <content src="Text/livre_1.xhtml#sigil_toc_id_3"/>
       </navPoint>
-      <navPoint id="navPoint-9" playOrder="9">
+      <navPoint id="navPoint-9" playOrder="10">
         <navLabel>
           <text>Chapitre IV. Règne d'Alexandre Jannée</text>
         </navLabel>
         <content src="Text/livre_1.xhtml#sigil_toc_id_4"/>
       </navPoint>
-      <navPoint id="navPoint-10" playOrder="10">
+      <navPoint id="navPoint-10" playOrder="11">
         <navLabel>
           <text>Chapitre V. Règne d'Alexandra</text>
         </navLabel>
         <content src="Text/livre_1.xhtml#sigil_toc_id_5"/>
       </navPoint>
-      <navPoint id="navPoint-11" playOrder="11">
+      <navPoint id="navPoint-11" playOrder="12">
         <navLabel>
           <text>Chapitre VI. Rivalité d'Hyrcan II et d'Aristobule Il. Intervention de Pompée</text>
         </navLabel>
         <content src="Text/livre_1.xhtml#sigil_toc_id_6"/>
       </navPoint>
-      <navPoint id="navPoint-12" playOrder="12">
+      <navPoint id="navPoint-12" playOrder="13">
         <navLabel>
           <text>Chapitre VII. Siège et prise de Jérusalem par Pompée. Hyrcan grand-prêtre. Réorganisation de la Judée</text>
         </navLabel>
         <content src="Text/livre_1.xhtml#sigil_toc_id_7"/>
       </navPoint>
-      <navPoint id="navPoint-13" playOrder="13">
+      <navPoint id="navPoint-13" playOrder="14">
         <navLabel>
           <text>Chapitre VIII. Révoltes d'Alexandre et d'Aristobule. Gabinius, Crassus et Cassius</text>
         </navLabel>
         <content src="Text/livre_1.xhtml#sigil_toc_id_8"/>
       </navPoint>
-      <navPoint id="navPoint-14" playOrder="14">
+      <navPoint id="navPoint-14" playOrder="15">
         <navLabel>
           <text>Chapitre IX. Fin d Aristobule et d'Alexandre. Antipater et César</text>
         </navLabel>
         <content src="Text/livre_1.xhtml#sigil_toc_id_9"/>
       </navPoint>
-      <navPoint id="navPoint-15" playOrder="15">
+      <navPoint id="navPoint-15" playOrder="16">
         <navLabel>
           <text>Chapitre X. Puissance d'Antipater. Procès d'Hérode</text>
         </navLabel>
         <content src="Text/livre_1.xhtml#sigil_toc_id_10"/>
       </navPoint>
-      <navPoint id="navPoint-16" playOrder="16">
+      <navPoint id="navPoint-16" playOrder="17">
         <navLabel>
           <text>Chapitre XI. Cassius en Syrie. Meurtre d'Antipater et de Malichos.</text>
         </navLabel>
         <content src="Text/livre_1.xhtml#sigil_toc_id_11"/>
       </navPoint>
-      <navPoint id="navPoint-17" playOrder="17">
+      <navPoint id="navPoint-17" playOrder="18">
         <navLabel>
           <text>Chapitre XII. Antoine en Syrie. Hérode et Phasaël tétrarques</text>
         </navLabel>
         <content src="Text/livre_1.xhtml#sigil_toc_id_12"/>
       </navPoint>
-      <navPoint id="navPoint-18" playOrder="18">
+      <navPoint id="navPoint-18" playOrder="19">
         <navLabel>
           <text>Chapitre XIII. Invasion des Parthes. Antigone restauré. Mort de Phasaël</text>
         </navLabel>
         <content src="Text/livre_1.xhtml#sigil_toc_id_13"/>
       </navPoint>
-      <navPoint id="navPoint-19" playOrder="19">
+      <navPoint id="navPoint-19" playOrder="20">
         <navLabel>
           <text>Chapitre XIV. Voyage d'Hérode à Rome. Antoine le nomme roi</text>
         </navLabel>
         <content src="Text/livre_1.xhtml#sigil_toc_id_14"/>
       </navPoint>
-      <navPoint id="navPoint-20" playOrder="20">
+      <navPoint id="navPoint-20" playOrder="21">
         <navLabel>
           <text>Chapitre XV. Siège de Masada. Premières opérations en Judée</text>
         </navLabel>
         <content src="Text/livre_1.xhtml#sigil_toc_id_15"/>
       </navPoint>
-      <navPoint id="navPoint-21" playOrder="21">
+      <navPoint id="navPoint-21" playOrder="22">
         <navLabel>
           <text>Chapitre XVI. Extermination des brigands. Hérode devant Samosate</text>
         </navLabel>
         <content src="Text/livre_1.xhtml#sigil_toc_id_16"/>
       </navPoint>
-      <navPoint id="navPoint-22" playOrder="22">
+      <navPoint id="navPoint-22" playOrder="23">
         <navLabel>
           <text>Chapitre XVII. Mort de Joseph, frère d'Hérode. Nouveaux succès et mariage d’Hérode</text>
         </navLabel>
         <content src="Text/livre_1.xhtml#sigil_toc_id_17"/>
       </navPoint>
-      <navPoint id="navPoint-23" playOrder="23">
+      <navPoint id="navPoint-23" playOrder="24">
         <navLabel>
           <text>Chapitre XVIII. Prise de Jérusalem par Hérode. Supplice d'Antigone. Hérode et Cléopâtre</text>
         </navLabel>
         <content src="Text/livre_1.xhtml#sigil_toc_id_18"/>
       </navPoint>
-      <navPoint id="navPoint-24" playOrder="24">
+      <navPoint id="navPoint-24" playOrder="25">
         <navLabel>
           <text>Chapitre XIX. Guerre contre les Arabes.</text>
         </navLabel>
         <content src="Text/livre_1.xhtml#sigil_toc_id_19"/>
       </navPoint>
-      <navPoint id="navPoint-25" playOrder="25">
+      <navPoint id="navPoint-25" playOrder="26">
         <navLabel>
           <text>Chapitre XX. Actium. Le royaume d'Hérode agrandi par Auguste</text>
         </navLabel>
         <content src="Text/livre_1.xhtml#sigil_toc_id_20"/>
       </navPoint>
-      <navPoint id="navPoint-26" playOrder="26">
+      <navPoint id="navPoint-26" playOrder="27">
         <navLabel>
           <text>Chapitre XXI. Constructions d'Hérode. Son caractère</text>
         </navLabel>
         <content src="Text/livre_1.xhtml#sigil_toc_id_21"/>
       </navPoint>
-      <navPoint id="navPoint-27" playOrder="27">
+      <navPoint id="navPoint-27" playOrder="28">
         <navLabel>
           <text>Chapitre XXII. Malheurs domestiques. Supplices d'Hyrcan, de Jonathas, de Mariamme</text>
         </navLabel>
         <content src="Text/livre_1.xhtml#sigil_toc_id_22"/>
       </navPoint>
-      <navPoint id="navPoint-28" playOrder="28">
+      <navPoint id="navPoint-28" playOrder="29">
         <navLabel>
           <text>Chapitre XXIII. Premiers démêlés d'Hérode avec ses fils nés de Mariamme</text>
         </navLabel>
         <content src="Text/livre_1.xhtml#sigil_toc_id_23"/>
       </navPoint>
-      <navPoint id="navPoint-29" playOrder="29">
+      <navPoint id="navPoint-29" playOrder="30">
         <navLabel>
           <text>Chapitre XXIV. Intrigues d'Antipater et de Salomé. Arrestation d'Alexandre.</text>
         </navLabel>
         <content src="Text/livre_1.xhtml#sigil_toc_id_24"/>
       </navPoint>
-      <navPoint id="navPoint-30" playOrder="30">
+      <navPoint id="navPoint-30" playOrder="31">
         <navLabel>
           <text>Chapitre XXV. Intervention d'Archélaüs, roi de Cappadoce. Réconciliation</text>
         </navLabel>
         <content src="Text/livre_1.xhtml#sigil_toc_id_25"/>
       </navPoint>
-      <navPoint id="navPoint-31" playOrder="31">
+      <navPoint id="navPoint-31" playOrder="32">
         <navLabel>
           <text>Chapitre XXVI. Intrigues du Lacédémonien Euryclès à la cour d'Hérode</text>
         </navLabel>
         <content src="Text/livre_1.xhtml#sigil_toc_id_26"/>
       </navPoint>
-      <navPoint id="navPoint-32" playOrder="32">
+      <navPoint id="navPoint-32" playOrder="33">
         <navLabel>
           <text>Chapitre XXVII. Condamnation et supplice des fils de Mariamme</text>
         </navLabel>
         <content src="Text/livre_1.xhtml#sigil_toc_id_27"/>
       </navPoint>
-      <navPoint id="navPoint-33" playOrder="33">
+      <navPoint id="navPoint-33" playOrder="34">
         <navLabel>
           <text>Chapitre XXVIII. Mariages princiers</text>
         </navLabel>
         <content src="Text/livre_1.xhtml#sigil_toc_id_28"/>
       </navPoint>
-      <navPoint id="navPoint-34" playOrder="34">
+      <navPoint id="navPoint-34" playOrder="35">
         <navLabel>
           <text>Chapitre XXIX. Antipater à Home. Disgrâce et mort de Phéroras</text>
         </navLabel>
         <content src="Text/livre_1.xhtml#sigil_toc_id_29"/>
       </navPoint>
-      <navPoint id="navPoint-35" playOrder="35">
+      <navPoint id="navPoint-35" playOrder="36">
         <navLabel>
           <text>Chapitre XXX. Découverte des complots d'Antipater</text>
         </navLabel>
         <content src="Text/livre_1.xhtml#sigil_toc_id_30"/>
       </navPoint>
-      <navPoint id="navPoint-36" playOrder="36">
+      <navPoint id="navPoint-36" playOrder="37">
         <navLabel>
           <text>Chapitre XXXI. Retour et arrestation d'Antipater</text>
         </navLabel>
         <content src="Text/livre_1.xhtml#sigil_toc_id_31"/>
       </navPoint>
-      <navPoint id="navPoint-37" playOrder="37">
+      <navPoint id="navPoint-37" playOrder="38">
         <navLabel>
           <text>Chapitre XXXII. Procès d'Antipater. Nouveau testament d'Hérode</text>
         </navLabel>
         <content src="Text/livre_1.xhtml#sigil_toc_id_32"/>
       </navPoint>
-      <navPoint id="navPoint-38" playOrder="38">
+      <navPoint id="navPoint-38" playOrder="39">
         <navLabel>
           <text>Chapitre XXXIII. Sédition de « l'aigle d'or ». Supplice d'Antipater. Fin d'Hérode</text>
         </navLabel>
         <content src="Text/livre_1.xhtml#sigil_toc_id_33"/>
       </navPoint>
     </navPoint>
-    <navPoint id="navPoint-39" playOrder="39">
+    <navPoint id="navPoint-39" playOrder="40">
       <navLabel>
         <text>Livre II: Depuis la mort d'Hérode jusqu'au début de l'insurrection (4 av. J.-C. - 66 ap. J.-C.)</text>
       </navLabel>
       <content src="Text/livre_2.xhtml"/>
-      <navPoint id="navPoint-40" playOrder="40">
+      <navPoint id="navPoint-40" playOrder="41">
         <navLabel>
           <text>Chapitre I. Avènement d'Archélaüs. Sédition des docteurs</text>
         </navLabel>
         <content src="Text/livre_2.xhtml#sigil_toc_id_34"/>
       </navPoint>
-      <navPoint id="navPoint-41" playOrder="41">
+      <navPoint id="navPoint-41" playOrder="42">
         <navLabel>
           <text>Chapitre II Archélaüs et Antipas il Rome. Conseil tenu par Auguste.</text>
         </navLabel>
         <content src="Text/livre_2.xhtml#sigil_toc_id_35"/>
       </navPoint>
-      <navPoint id="navPoint-42" playOrder="42">
+      <navPoint id="navPoint-42" playOrder="43">
         <navLabel>
           <text>Chapitre III. Sabinus à Jérusalem. Soulèvement de la Pentecôte</text>
         </navLabel>
         <content src="Text/livre_2.xhtml#sigil_toc_id_36"/>
       </navPoint>
-      <navPoint id="navPoint-43" playOrder="43">
+      <navPoint id="navPoint-43" playOrder="44">
         <navLabel>
           <text>Chapitre IV. Troubles dans les provinces : Judas fils d'Ézéchias, Simon. Athrongée</text>
         </navLabel>
         <content src="Text/livre_2.xhtml#sigil_toc_id_37"/>
       </navPoint>
-      <navPoint id="navPoint-44" playOrder="44">
+      <navPoint id="navPoint-44" playOrder="45">
         <navLabel>
           <text>Chapitre V. Pacification de la Judée par Varus</text>
         </navLabel>
         <content src="Text/livre_2.xhtml#sigil_toc_id_38"/>
       </navPoint>
-      <navPoint id="navPoint-45" playOrder="45">
+      <navPoint id="navPoint-45" playOrder="46">
         <navLabel>
           <text>Chapitre VI. Archélaüs accusé à Rome par les notables Juifs. Auguste partage le royaume d'Hérode entre ses fils</text>
         </navLabel>
         <content src="Text/livre_2.xhtml#sigil_toc_id_39"/>
       </navPoint>
-      <navPoint id="navPoint-46" playOrder="46">
+      <navPoint id="navPoint-46" playOrder="47">
         <navLabel>
           <text>Chapitre VII Le faux Alexandre. Fin d' Archélaüs et de Glaphyra</text>
         </navLabel>
         <content src="Text/livre_2.xhtml#sigil_toc_id_40"/>
       </navPoint>
-      <navPoint id="navPoint-47" playOrder="47">
+      <navPoint id="navPoint-47" playOrder="48">
         <navLabel>
           <text>Chapitre VIII. La Judée sous les procurateurs. Judas le Galiléen. Les trois sectes juives et en particulier les Esséniens</text>
         </navLabel>
         <content src="Text/livre_2.xhtml#sigil_toc_id_41"/>
       </navPoint>
-      <navPoint id="navPoint-48" playOrder="48">
+      <navPoint id="navPoint-48" playOrder="49">
         <navLabel>
           <text>Chapitre IX. Antipas et Philippe. Le procurateur Pilate. Jeunesse d'Agrippa.</text>
         </navLabel>
         <content src="Text/livre_2.xhtml#sigil_toc_id_42"/>
       </navPoint>
-      <navPoint id="navPoint-49" playOrder="49">
+      <navPoint id="navPoint-49" playOrder="50">
         <navLabel>
           <text>Chapitre X. Affaire de la statue de Caligula</text>
         </navLabel>
         <content src="Text/livre_2.xhtml#sigil_toc_id_43"/>
       </navPoint>
-      <navPoint id="navPoint-50" playOrder="50">
+      <navPoint id="navPoint-50" playOrder="51">
         <navLabel>
           <text>Chapitre XI. Avènement de Claude. Agrippa et Hérode (de Chalcis) rois. Retour au régime des procurateurs</text>
         </navLabel>
         <content src="Text/livre_2.xhtml#sigil_toc_id_44"/>
       </navPoint>
-      <navPoint id="navPoint-51" playOrder="51">
+      <navPoint id="navPoint-51" playOrder="52">
         <navLabel>
           <text>Chapitre XII. Le procurateur Cumanus. Agrandissements d'Agrippa II</text>
         </navLabel>
         <content src="Text/livre_2.xhtml#sigil_toc_id_45"/>
       </navPoint>
-      <navPoint id="navPoint-52" playOrder="52">
+      <navPoint id="navPoint-52" playOrder="53">
         <navLabel>
           <text>Chapitre XIII. Le procurateur Félix. Sicaires, faux prophètes et brigands</text>
         </navLabel>
         <content src="Text/livre_2.xhtml#sigil_toc_id_46"/>
       </navPoint>
-      <navPoint id="navPoint-53" playOrder="53">
+      <navPoint id="navPoint-53" playOrder="54">
         <navLabel>
           <text>Chapitre XIV. Les procurateurs Festus, Albinos, Gessius Florus. Émeute de Césarée. Pillage de Jérusalem</text>
         </navLabel>
         <content src="Text/livre_2.xhtml#sigil_toc_id_47"/>
       </navPoint>
-      <navPoint id="navPoint-54" playOrder="54">
+      <navPoint id="navPoint-54" playOrder="55">
         <navLabel>
           <text>Chapitre XV. Intervention de Bérénice. Florus chassé de Jérusalem</text>
         </navLabel>
         <content src="Text/livre_2.xhtml#sigil_toc_id_48"/>
       </navPoint>
-      <navPoint id="navPoint-55" playOrder="55">
+      <navPoint id="navPoint-55" playOrder="56">
         <navLabel>
           <text>Chapitre XVI. Mission de Neapoltanus. Discours d'Agrippa</text>
         </navLabel>
         <content src="Text/livre_2.xhtml#sigil_toc_id_49"/>
       </navPoint>
-      <navPoint id="navPoint-56" playOrder="56">
+      <navPoint id="navPoint-56" playOrder="57">
         <navLabel>
           <text>Chapitre XVII. Prise de Masada par les insurgés. Abolition des sacrifices pour Rome. Les insurgés conquièrent la Ville haute, la tour Antonia, le Palais ; massacre de la garnison romaine.</text>
         </navLabel>
         <content src="Text/livre_2.xhtml#sigil_toc_id_50"/>
       </navPoint>
-      <navPoint id="navPoint-57" playOrder="57">
+      <navPoint id="navPoint-57" playOrder="58">
         <navLabel>
           <text>Chapitre XVIII. Massacres des Juifs par les Grecs dans les villes de province ; représailles juives. Émeute d'Alexandrie. Entrée en campagne de Cestius Gallus</text>
         </navLabel>
         <content src="Text/livre_2.xhtml#sigil_toc_id_51"/>
       </navPoint>
-      <navPoint id="navPoint-58" playOrder="58">
+      <navPoint id="navPoint-58" playOrder="59">
         <navLabel>
           <text>Chapitre XIX. Échec de Cestius contre Jérusalem ; sa retraite.</text>
         </navLabel>
         <content src="Text/livre_2.xhtml#sigil_toc_id_52"/>
       </navPoint>
-      <navPoint id="navPoint-59" playOrder="59">
+      <navPoint id="navPoint-59" playOrder="60">
         <navLabel>
           <text>Chapitre XX. Massacre de Damas. Les généraux de l'insurrection. Josèphe organise la défense en Galilée</text>
         </navLabel>
         <content src="Text/livre_2.xhtml#sigil_toc_id_53"/>
       </navPoint>
-      <navPoint id="navPoint-60" playOrder="60">
+      <navPoint id="navPoint-60" playOrder="61">
         <navLabel>
           <text>Chapitre XXI. Conflit entre Josèphe et Jean de Gischala. Pillage de Tibériade.</text>
         </navLabel>
         <content src="Text/livre_2.xhtml#sigil_toc_id_54"/>
       </navPoint>
-      <navPoint id="navPoint-61" playOrder="61">
+      <navPoint id="navPoint-61" playOrder="62">
         <navLabel>
           <text>Chapitre XXII. Préparatifs à Jérusalem. Rapines de Simon Bargioras en Idumée</text>
         </navLabel>
         <content src="Text/livre_2.xhtml#sigil_toc_id_55"/>
       </navPoint>
     </navPoint>
-    <navPoint id="navPoint-62" playOrder="62">
+    <navPoint id="navPoint-62" playOrder="63">
       <navLabel>
         <text>Livre III: Depuis la prise du commandement par Vespasien jusqu’à la soumission de la Galilée (67 ap. J.-C.)</text>
       </navLabel>
       <content src="Text/livre_3.xhtml"/>
-      <navPoint id="navPoint-63" playOrder="63">
+      <navPoint id="navPoint-63" playOrder="64">
         <navLabel>
           <text>Chapitre I. Néron désigne Vespasien comme général en chef contre l'insurrection</text>
         </navLabel>
         <content src="Text/livre_3.xhtml#sigil_toc_id_56"/>
       </navPoint>
-      <navPoint id="navPoint-64" playOrder="64">
+      <navPoint id="navPoint-64" playOrder="65">
         <navLabel>
           <text>Chapitre II. Défaite des Juifs devant Ascalon. Vespasien à Ptolémaïs</text>
         </navLabel>
         <content src="Text/livre_3.xhtml#sigil_toc_id_57"/>
       </navPoint>
-      <navPoint id="navPoint-65" playOrder="65">
+      <navPoint id="navPoint-65" playOrder="66">
         <navLabel>
           <text>Chapitre III. Description des diverses parties de la terre d'Israël: Galilée, Pérée, Samarie, Judée</text>
         </navLabel>
         <content src="Text/livre_3.xhtml#sigil_toc_id_58"/>
       </navPoint>
-      <navPoint id="navPoint-66" playOrder="66">
+      <navPoint id="navPoint-66" playOrder="67">
         <navLabel>
           <text>Chapitre IV. Opérations de la garnison romaine de Sepphoris. Arrivée de Titus. Dénombrement des forces romaines</text>
         </navLabel>
         <content src="Text/livre_3.xhtml#sigil_toc_id_59"/>
       </navPoint>
-      <navPoint id="navPoint-67" playOrder="67">
+      <navPoint id="navPoint-67" playOrder="68">
         <navLabel>
           <text>Chapitre V. L'armée romaine</text>
         </navLabel>
         <content src="Text/livre_3.xhtml#sigil_toc_id_60"/>
       </navPoint>
-      <navPoint id="navPoint-68" playOrder="68">
+      <navPoint id="navPoint-68" playOrder="69">
         <navLabel>
           <text>Chapitre VI. Vespasien entre en Galilée. Débandade de l'armée de Josèphe</text>
         </navLabel>
         <content src="Text/livre_3.xhtml#sigil_toc_id_61"/>
       </navPoint>
-      <navPoint id="navPoint-69" playOrder="69">
+      <navPoint id="navPoint-69" playOrder="70">
         <navLabel>
           <text>Chapitre VII. Siège et prise de Jotapata</text>
         </navLabel>
         <content src="Text/livre_3.xhtml#sigil_toc_id_62"/>
       </navPoint>
-      <navPoint id="navPoint-70" playOrder="70">
+      <navPoint id="navPoint-70" playOrder="71">
         <navLabel>
           <text>Chapitre VIII. Josèphe se livre aux Romains. Son entretien avec Vespasien.</text>
         </navLabel>
         <content src="Text/livre_3.xhtml#sigil_toc_id_63"/>
       </navPoint>
-      <navPoint id="navPoint-71" playOrder="71">
+      <navPoint id="navPoint-71" playOrder="72">
         <navLabel>
           <text>Chapitre IX. Destruction des pirates de Joppé. Sentiments à Jérusalem. Vespasien dans le royaume d'Agrippa. Capitulation de Tibériade</text>
         </navLabel>
         <content src="Text/livre_3.xhtml#sigil_toc_id_64"/>
       </navPoint>
-      <navPoint id="navPoint-72" playOrder="72">
+      <navPoint id="navPoint-72" playOrder="73">
         <navLabel>
           <text>Chapitre X. Bataille et prise de Tarichées. La guerre sur le lac</text>
         </navLabel>
         <content src="Text/livre_3.xhtml#sigil_toc_id_65"/>
       </navPoint>
     </navPoint>
-    <navPoint id="navPoint-73" playOrder="73">
+    <navPoint id="navPoint-73" playOrder="74">
       <navLabel>
         <text>Livre IV: Depuis la soumission de presque toute la Galilée jusqu'au séjour de Vespasien à Alexandrie.</text>
       </navLabel>
       <content src="Text/livre_4.xhtml"/>
-      <navPoint id="navPoint-74" playOrder="74">
+      <navPoint id="navPoint-74" playOrder="75">
         <navLabel>
           <text>Chapitre I: . Siège de Gamala</text>
         </navLabel>
         <content src="Text/livre_4.xhtml#sigil_toc_id_66"/>
       </navPoint>
-      <navPoint id="navPoint-75" playOrder="75">
+      <navPoint id="navPoint-75" playOrder="76">
         <navLabel>
           <text>Chapitre II: Jean à Gischala ; sa fuite à Jérusalem</text>
         </navLabel>
         <content src="Text/livre_4.xhtml#sigil_toc_id_67"/>
       </navPoint>
-      <navPoint id="navPoint-76" playOrder="76">
+      <navPoint id="navPoint-76" playOrder="77">
         <navLabel>
           <text>Chapitre III: . Les zélateurs et Ananos</text>
         </navLabel>
         <content src="Text/livre_4.xhtml#sigil_toc_id_68"/>
       </navPoint>
-      <navPoint id="navPoint-77" playOrder="77">
+      <navPoint id="navPoint-77" playOrder="78">
         <navLabel>
           <text>Chapitre IV: . Intervention des Iduméens</text>
         </navLabel>
         <content src="Text/livre_4.xhtml#sigil_toc_id_69"/>
       </navPoint>
-      <navPoint id="navPoint-78" playOrder="78">
+      <navPoint id="navPoint-78" playOrder="79">
         <navLabel>
           <text>Chapitre V: . Mort d'Ananos et de Zacharie</text>
         </navLabel>
         <content src="Text/livre_4.xhtml#sigil_toc_id_70"/>
       </navPoint>
-      <navPoint id="navPoint-79" playOrder="79">
+      <navPoint id="navPoint-79" playOrder="80">
         <navLabel>
           <text>Chapitre VI: Crimes des zélateurs.</text>
         </navLabel>
         <content src="Text/livre_4.xhtml#sigil_toc_id_71"/>
       </navPoint>
-      <navPoint id="navPoint-80" playOrder="80">
+      <navPoint id="navPoint-80" playOrder="81">
         <navLabel>
           <text>Chapitre VII: Jean prend le pouvoir absolu</text>
         </navLabel>
         <content src="Text/livre_4.xhtml#sigil_toc_id_72"/>
       </navPoint>
-      <navPoint id="navPoint-81" playOrder="81">
+      <navPoint id="navPoint-81" playOrder="82">
         <navLabel>
           <text>Chapitre VIII: Vespasien subjugue la Judée</text>
         </navLabel>
         <content src="Text/livre_4.xhtml#sigil_toc_id_73"/>
       </navPoint>
-      <navPoint id="navPoint-82" playOrder="82">
+      <navPoint id="navPoint-82" playOrder="83">
         <navLabel>
           <text>Chapitre IX: Simon fils de Gioras et les zélateurs</text>
         </navLabel>
         <content src="Text/livre_4.xhtml#sigil_toc_id_74"/>
       </navPoint>
-      <navPoint id="navPoint-83" playOrder="83">
+      <navPoint id="navPoint-83" playOrder="84">
         <navLabel>
           <text>Chapitre X: Vespasien, proclamé empereur, libère Josèphe</text>
         </navLabel>
         <content src="Text/livre_4.xhtml#sigil_toc_id_75"/>
       </navPoint>
-      <navPoint id="navPoint-84" playOrder="84">
+      <navPoint id="navPoint-84" playOrder="85">
         <navLabel>
           <text>Chapitre XI: Défaite et mort de Vitellius; Vespasien à Alexandrie</text>
         </navLabel>
         <content src="Text/livre_4.xhtml#sigil_toc_id_76"/>
       </navPoint>
     </navPoint>
-    <navPoint id="navPoint-85" playOrder="85">
+    <navPoint id="navPoint-85" playOrder="86">
       <navLabel>
         <text>Livre V: Depuis l’avance de Titus contre Jérusalem jusqu’aux premiers ravages de la famine.</text>
       </navLabel>
       <content src="Text/livre_5.xhtml"/>
-      <navPoint id="navPoint-86" playOrder="86">
+      <navPoint id="navPoint-86" playOrder="87">
         <navLabel>
           <text>Chapitre I: Les factions à Jérusalem ; l’avance de Titus.</text>
         </navLabel>
         <content src="Text/livre_5.xhtml#sigil_toc_id_77"/>
       </navPoint>
-      <navPoint id="navPoint-87" playOrder="87">
+      <navPoint id="navPoint-87" playOrder="88">
         <navLabel>
           <text>Chapitre II: Dangers que court Titus.</text>
         </navLabel>
         <content src="Text/livre_5.xhtml#sigil_toc_id_78"/>
       </navPoint>
-      <navPoint id="navPoint-88" playOrder="88">
+      <navPoint id="navPoint-88" playOrder="89">
         <navLabel>
           <text>Chapitre III: Jean pénètre dans le Temple ; revers des Romains.</text>
         </navLabel>
         <content src="Text/livre_5.xhtml#sigil_toc_id_79"/>
       </navPoint>
-      <navPoint id="navPoint-89" playOrder="89">
+      <navPoint id="navPoint-89" playOrder="90">
         <navLabel>
           <text>Chapitre IV: Description de Jérusalem.</text>
         </navLabel>
         <content src="Text/livre_5.xhtml#sigil_toc_id_80"/>
       </navPoint>
-      <navPoint id="navPoint-90" playOrder="90">
+      <navPoint id="navPoint-90" playOrder="91">
         <navLabel>
           <text>Chapitre V: Description du Temple.</text>
         </navLabel>
         <content src="Text/livre_5.xhtml#sigil_toc_id_81"/>
       </navPoint>
-      <navPoint id="navPoint-91" playOrder="91">
+      <navPoint id="navPoint-91" playOrder="92">
         <navLabel>
           <text>Chapitre VI: Travaux de siège des Romains.</text>
         </navLabel>
         <content src="Text/livre_5.xhtml#sigil_toc_id_82"/>
       </navPoint>
-      <navPoint id="navPoint-92" playOrder="92">
+      <navPoint id="navPoint-92" playOrder="93">
         <navLabel>
           <text>Chapitre VII: Revers des Romains.</text>
         </navLabel>
         <content src="Text/livre_5.xhtml#sigil_toc_id_83"/>
       </navPoint>
-      <navPoint id="navPoint-93" playOrder="93">
+      <navPoint id="navPoint-93" playOrder="94">
         <navLabel>
           <text>Chapitre VIII: Les Romains prennent le second mur.</text>
         </navLabel>
         <content src="Text/livre_5.xhtml#sigil_toc_id_84"/>
       </navPoint>
-      <navPoint id="navPoint-94" playOrder="94">
+      <navPoint id="navPoint-94" playOrder="95">
         <navLabel>
           <text>Chapitre IX: Discours de Josèphe aux Juifs.</text>
         </navLabel>
         <content src="Text/livre_5.xhtml#sigil_toc_id_85"/>
       </navPoint>
-      <navPoint id="navPoint-95" playOrder="95">
+      <navPoint id="navPoint-95" playOrder="96">
         <navLabel>
           <text>Chapitre X: Désertions, misère et famine de Jérusalem.</text>
         </navLabel>
         <content src="Text/livre_5.xhtml#sigil_toc_id_86"/>
       </navPoint>
-      <navPoint id="navPoint-96" playOrder="96">
+      <navPoint id="navPoint-96" playOrder="97">
         <navLabel>
           <text>Chapitre XI: Cruauté des Romains ; revers et succès de Titus.</text>
         </navLabel>
         <content src="Text/livre_5.xhtml#sigil_toc_id_87"/>
       </navPoint>
-      <navPoint id="navPoint-97" playOrder="97">
+      <navPoint id="navPoint-97" playOrder="98">
         <navLabel>
           <text>Chapitre XII: Conseil de guerre de Titus.</text>
         </navLabel>
         <content src="Text/livre_5.xhtml#sigil_toc_id_88"/>
       </navPoint>
-      <navPoint id="navPoint-98" playOrder="98">
+      <navPoint id="navPoint-98" playOrder="99">
         <navLabel>
           <text>Chapitre XIII: Simon tue Matthias ; Jean pille le Temple ; affreuse famine.</text>
         </navLabel>
         <content src="Text/livre_5.xhtml#sigil_toc_id_89"/>
       </navPoint>
     </navPoint>
-    <navPoint id="navPoint-99" playOrder="99">
+    <navPoint id="navPoint-99" playOrder="100">
       <navLabel>
         <text>Livre VI: Depuis l'achèvement des travaux romains jusqu'à la prise de la ville.</text>
       </navLabel>
       <content src="Text/livre_6.xhtml"/>
-      <navPoint id="navPoint-100" playOrder="100">
+      <navPoint id="navPoint-100" playOrder="101">
         <navLabel>
           <text>Chapitre I: Chute de la tour Antonia ; violents combats.</text>
         </navLabel>
         <content src="Text/livre_6.xhtml#sigil_toc_id_90"/>
       </navPoint>
-      <navPoint id="navPoint-101" playOrder="101">
+      <navPoint id="navPoint-101" playOrder="102">
         <navLabel>
           <text>Chapitre II: Malgré Josèphe et Titus, le parti de résistance l’emporte ; incendie des protes du Temple.</text>
         </navLabel>
         <content src="Text/livre_6.xhtml#sigil_toc_id_91"/>
       </navPoint>
-      <navPoint id="navPoint-102" playOrder="102">
+      <navPoint id="navPoint-102" playOrder="103">
         <navLabel>
           <text>Chapitre III: Les Juifs d’Antioche sont accusés d’être des incendiaires.</text>
         </navLabel>
         <content src="Text/livre_6.xhtml#sigil_toc_id_92"/>
       </navPoint>
-      <navPoint id="navPoint-103" playOrder="103">
+      <navPoint id="navPoint-103" playOrder="104">
         <navLabel>
           <text>Chapitre IV: Nouveau Conseil de guerre sur le sort du Temple ; incendie du Temple malgré les efforts de Titus.</text>
         </navLabel>
         <content src="Text/livre_6.xhtml#sigil_toc_id_93"/>
       </navPoint>
-      <navPoint id="navPoint-104" playOrder="104">
+      <navPoint id="navPoint-104" playOrder="105">
         <navLabel>
           <text>Chapitre V: Ravages de l’incendie ; prédictions et oracles.</text>
         </navLabel>
         <content src="Text/livre_6.xhtml#sigil_toc_id_94"/>
       </navPoint>
-      <navPoint id="navPoint-105" playOrder="105">
+      <navPoint id="navPoint-105" playOrder="106">
         <navLabel>
           <text>Chapitre VI: Discours de Titus à Simon et à Jean ; il décide de détruire la ville.</text>
         </navLabel>
         <content src="Text/livre_6.xhtml#sigil_toc_id_95"/>
       </navPoint>
-      <navPoint id="navPoint-106" playOrder="106">
+      <navPoint id="navPoint-106" playOrder="107">
         <navLabel>
           <text>Chapitre VII: Sort du Palais royal ; les Juifs tentent d’échapper par les mines.</text>
         </navLabel>
         <content src="Text/livre_6.xhtml#sigil_toc_id_96"/>
       </navPoint>
-      <navPoint id="navPoint-107" playOrder="107">
+      <navPoint id="navPoint-107" playOrder="108">
         <navLabel>
           <text>Chapitre VIII: Livraisons des trésors du Temple ; les Romains prennent la ville haute.</text>
         </navLabel>
         <content src="Text/livre_6.xhtml#sigil_toc_id_97"/>
       </navPoint>
-      <navPoint id="navPoint-108" playOrder="108">
+      <navPoint id="navPoint-108" playOrder="109">
         <navLabel>
           <text>Chapitre IX: Entrée de Titus à Jérusalem ; sort des captifs.</text>
         </navLabel>
         <content src="Text/livre_6.xhtml#sigil_toc_id_98"/>
       </navPoint>
-      <navPoint id="navPoint-109" playOrder="109">
+      <navPoint id="navPoint-109" playOrder="110">
         <navLabel>
           <text>Chapitre X: Coup d’œil sur le passé de Jérusalem.</text>
         </navLabel>
         <content src="Text/livre_6.xhtml#sigil_toc_id_99"/>
       </navPoint>
     </navPoint>
-    <navPoint id="navPoint-110" playOrder="110">
+    <navPoint id="navPoint-110" playOrder="111">
       <navLabel>
         <text>Livre VII: Depuis la destruction de Jérusalem jusqu'à la fin de la guerre</text>
       </navLabel>
       <content src="Text/livre_7.xhtml"/>
-      <navPoint id="navPoint-111" playOrder="111">
+      <navPoint id="navPoint-111" playOrder="112">
         <navLabel>
           <text>Chapitre I: Jérusalem est rasée ; Titus récompense les vainqueurs</text>
         </navLabel>
         <content src="Text/livre_7.xhtml#sigil_toc_id_100"/>
       </navPoint>
-      <navPoint id="navPoint-112" playOrder="112">
+      <navPoint id="navPoint-112" playOrder="113">
         <navLabel>
           <text>Chapitre II: Simon est fait prisonnier</text>
         </navLabel>
         <content src="Text/livre_7.xhtml#sigil_toc_id_101"/>
       </navPoint>
-      <navPoint id="navPoint-113" playOrder="113">
+      <navPoint id="navPoint-113" playOrder="114">
         <navLabel>
           <text>Chapitre III: Les Juifs d'Antioche sont accusés d'être des incendiaires</text>
         </navLabel>
         <content src="Text/livre_7.xhtml#sigil_toc_id_102"/>
       </navPoint>
-      <navPoint id="navPoint-114" playOrder="114">
+      <navPoint id="navPoint-114" playOrder="115">
         <navLabel>
           <text>Chapitre IV: Réception de Vespasien à Rome: révolte des Gaulois et incursions des Sarmates</text>
         </navLabel>
         <content src="Text/livre_7.xhtml#sigil_toc_id_103"/>
       </navPoint>
-      <navPoint id="navPoint-115" playOrder="115">
+      <navPoint id="navPoint-115" playOrder="116">
         <navLabel>
           <text>Chapitre V: Triomphe de Vespasien et de Titus: fondation du temple de la Paix</text>
         </navLabel>
         <content src="Text/livre_7.xhtml#sigil_toc_id_104"/>
       </navPoint>
-      <navPoint id="navPoint-116" playOrder="116">
+      <navPoint id="navPoint-116" playOrder="117">
         <navLabel>
           <text>Chapitre VI: Siège et prise de Machaeron</text>
         </navLabel>
         <content src="Text/livre_7.xhtml#sigil_toc_id_105"/>
       </navPoint>
-      <navPoint id="navPoint-117" playOrder="117">
+      <navPoint id="navPoint-117" playOrder="118">
         <navLabel>
           <text>Chapitre VII: Malheurs de la Commagène; invasions des Alains</text>
         </navLabel>
         <content src="Text/livre_7.xhtml#sigil_toc_id_106"/>
       </navPoint>
-      <navPoint id="navPoint-118" playOrder="118">
+      <navPoint id="navPoint-118" playOrder="119">
         <navLabel>
           <text>Chapitre VIII: Les Romains assiègent Masada</text>
         </navLabel>
         <content src="Text/livre_7.xhtml#sigil_toc_id_107"/>
       </navPoint>
-      <navPoint id="navPoint-119" playOrder="119">
+      <navPoint id="navPoint-119" playOrder="120">
         <navLabel>
           <text>Chapitre IXPris: e de Masada ; suicide de la population</text>
         </navLabel>
         <content src="Text/livre_7.xhtml#sigil_toc_id_108"/>
       </navPoint>
-      <navPoint id="navPoint-120" playOrder="120">
+      <navPoint id="navPoint-120" playOrder="121">
         <navLabel>
           <text>Chapitre X: Les sicaires en Égypte ; destruction du temple d'Onias</text>
         </navLabel>
         <content src="Text/livre_7.xhtml#sigil_toc_id_109"/>
       </navPoint>
-      <navPoint id="navPoint-121" playOrder="121">
+      <navPoint id="navPoint-121" playOrder="122">
         <navLabel>
           <text>Chapitre XI: Les sicaires à Cyrène; accusation portée contre Josèphe. Épilogue</text>
         </navLabel>
         <content src="Text/livre_7.xhtml#sigil_toc_id_110"/>
       </navPoint>
     </navPoint>
-    <navPoint id="navPoint-122" playOrder="122">
+    <navPoint id="navPoint-122" playOrder="123">
       <navLabel>
         <text>Praefatio</text>
       </navLabel>
       <content src="Text/praefatio.xhtml"/>
     </navPoint>
-    <navPoint id="navPoint-123" playOrder="123">
+    <navPoint id="navPoint-123" playOrder="124">
       <navLabel>
         <text>Liber I</text>
       </navLabel>
       <content src="Text/liber_1.xhtml"/>
-      <navPoint id="navPoint-124" playOrder="124">
+      <navPoint id="navPoint-124" playOrder="125">
         <navLabel>
           <text>I</text>
         </navLabel>
         <content src="Text/liber_1.xhtml#sigil_toc_id_111"/>
       </navPoint>
-      <navPoint id="navPoint-125" playOrder="125">
+      <navPoint id="navPoint-125" playOrder="126">
         <navLabel>
           <text>II</text>
         </navLabel>
         <content src="Text/liber_1.xhtml#sigil_toc_id_112"/>
       </navPoint>
-      <navPoint id="navPoint-126" playOrder="126">
+      <navPoint id="navPoint-126" playOrder="127">
         <navLabel>
           <text>III</text>
         </navLabel>
         <content src="Text/liber_1.xhtml#sigil_toc_id_113"/>
       </navPoint>
-      <navPoint id="navPoint-127" playOrder="127">
+      <navPoint id="navPoint-127" playOrder="128">
         <navLabel>
           <text>IV</text>
         </navLabel>
         <content src="Text/liber_1.xhtml#sigil_toc_id_114"/>
       </navPoint>
-      <navPoint id="navPoint-128" playOrder="128">
+      <navPoint id="navPoint-128" playOrder="129">
         <navLabel>
           <text>V</text>
         </navLabel>
         <content src="Text/liber_1.xhtml#sigil_toc_id_115"/>
       </navPoint>
-      <navPoint id="navPoint-129" playOrder="129">
+      <navPoint id="navPoint-129" playOrder="130">
         <navLabel>
           <text>VI</text>
         </navLabel>
         <content src="Text/liber_1.xhtml#sigil_toc_id_116"/>
       </navPoint>
-      <navPoint id="navPoint-130" playOrder="130">
+      <navPoint id="navPoint-130" playOrder="131">
         <navLabel>
           <text>VII</text>
         </navLabel>
         <content src="Text/liber_1.xhtml#sigil_toc_id_117"/>
       </navPoint>
-      <navPoint id="navPoint-131" playOrder="131">
+      <navPoint id="navPoint-131" playOrder="132">
         <navLabel>
           <text>VIII</text>
         </navLabel>
         <content src="Text/liber_1.xhtml#sigil_toc_id_118"/>
       </navPoint>
-      <navPoint id="navPoint-132" playOrder="132">
+      <navPoint id="navPoint-132" playOrder="133">
         <navLabel>
           <text>IX</text>
         </navLabel>
         <content src="Text/liber_1.xhtml#sigil_toc_id_119"/>
       </navPoint>
-      <navPoint id="navPoint-133" playOrder="133">
+      <navPoint id="navPoint-133" playOrder="134">
         <navLabel>
           <text>X</text>
         </navLabel>
         <content src="Text/liber_1.xhtml#sigil_toc_id_120"/>
       </navPoint>
-      <navPoint id="navPoint-134" playOrder="134">
+      <navPoint id="navPoint-134" playOrder="135">
         <navLabel>
           <text>XI</text>
         </navLabel>
         <content src="Text/liber_1.xhtml#sigil_toc_id_121"/>
       </navPoint>
-      <navPoint id="navPoint-135" playOrder="135">
+      <navPoint id="navPoint-135" playOrder="136">
         <navLabel>
           <text>XII</text>
         </navLabel>
         <content src="Text/liber_1.xhtml#sigil_toc_id_122"/>
       </navPoint>
-      <navPoint id="navPoint-136" playOrder="136">
+      <navPoint id="navPoint-136" playOrder="137">
         <navLabel>
           <text>XIII</text>
         </navLabel>
         <content src="Text/liber_1.xhtml#sigil_toc_id_123"/>
       </navPoint>
-      <navPoint id="navPoint-137" playOrder="137">
+      <navPoint id="navPoint-137" playOrder="138">
         <navLabel>
           <text>XIV</text>
         </navLabel>
         <content src="Text/liber_1.xhtml#sigil_toc_id_124"/>
       </navPoint>
-      <navPoint id="navPoint-138" playOrder="138">
+      <navPoint id="navPoint-138" playOrder="139">
         <navLabel>
           <text>XV</text>
         </navLabel>
         <content src="Text/liber_1.xhtml#sigil_toc_id_125"/>
       </navPoint>
-      <navPoint id="navPoint-139" playOrder="139">
+      <navPoint id="navPoint-139" playOrder="140">
         <navLabel>
           <text>XVI</text>
         </navLabel>
         <content src="Text/liber_1.xhtml#sigil_toc_id_126"/>
       </navPoint>
-      <navPoint id="navPoint-140" playOrder="140">
+      <navPoint id="navPoint-140" playOrder="141">
         <navLabel>
           <text>XVII</text>
         </navLabel>
         <content src="Text/liber_1.xhtml#sigil_toc_id_127"/>
       </navPoint>
-      <navPoint id="navPoint-141" playOrder="141">
+      <navPoint id="navPoint-141" playOrder="142">
         <navLabel>
           <text>XVIII</text>
         </navLabel>
         <content src="Text/liber_1.xhtml#sigil_toc_id_128"/>
       </navPoint>
-      <navPoint id="navPoint-142" playOrder="142">
+      <navPoint id="navPoint-142" playOrder="143">
         <navLabel>
           <text>XIX</text>
         </navLabel>
         <content src="Text/liber_1.xhtml#sigil_toc_id_129"/>
       </navPoint>
-      <navPoint id="navPoint-143" playOrder="143">
+      <navPoint id="navPoint-143" playOrder="144">
         <navLabel>
           <text>XX</text>
         </navLabel>
         <content src="Text/liber_1.xhtml#sigil_toc_id_130"/>
       </navPoint>
-      <navPoint id="navPoint-144" playOrder="144">
+      <navPoint id="navPoint-144" playOrder="145">
         <navLabel>
           <text>XXI</text>
         </navLabel>
         <content src="Text/liber_1.xhtml#sigil_toc_id_131"/>
       </navPoint>
-      <navPoint id="navPoint-145" playOrder="145">
+      <navPoint id="navPoint-145" playOrder="146">
         <navLabel>
           <text>XXII</text>
         </navLabel>
         <content src="Text/liber_1.xhtml#sigil_toc_id_132"/>
       </navPoint>
-      <navPoint id="navPoint-146" playOrder="146">
+      <navPoint id="navPoint-146" playOrder="147">
         <navLabel>
           <text>XXIII</text>
         </navLabel>
         <content src="Text/liber_1.xhtml#sigil_toc_id_133"/>
       </navPoint>
-      <navPoint id="navPoint-147" playOrder="147">
+      <navPoint id="navPoint-147" playOrder="148">
         <navLabel>
           <text>XXIV</text>
         </navLabel>
         <content src="Text/liber_1.xhtml#sigil_toc_id_134"/>
       </navPoint>
-      <navPoint id="navPoint-148" playOrder="148">
+      <navPoint id="navPoint-148" playOrder="149">
         <navLabel>
           <text>XXV</text>
         </navLabel>
         <content src="Text/liber_1.xhtml#sigil_toc_id_135"/>
       </navPoint>
-      <navPoint id="navPoint-149" playOrder="149">
+      <navPoint id="navPoint-149" playOrder="150">
         <navLabel>
           <text>XXVI</text>
         </navLabel>
         <content src="Text/liber_1.xhtml#sigil_toc_id_136"/>
       </navPoint>
-      <navPoint id="navPoint-150" playOrder="150">
+      <navPoint id="navPoint-150" playOrder="151">
         <navLabel>
           <text>XXVII</text>
         </navLabel>
         <content src="Text/liber_1.xhtml#sigil_toc_id_137"/>
       </navPoint>
-      <navPoint id="navPoint-151" playOrder="151">
+      <navPoint id="navPoint-151" playOrder="152">
         <navLabel>
           <text>XXVIII</text>
         </navLabel>
         <content src="Text/liber_1.xhtml#sigil_toc_id_138"/>
       </navPoint>
-      <navPoint id="navPoint-152" playOrder="152">
+      <navPoint id="navPoint-152" playOrder="153">
         <navLabel>
           <text>XXIX</text>
         </navLabel>
         <content src="Text/liber_1.xhtml#sigil_toc_id_139"/>
       </navPoint>
-      <navPoint id="navPoint-153" playOrder="153">
+      <navPoint id="navPoint-153" playOrder="154">
         <navLabel>
           <text>XXX</text>
         </navLabel>
         <content src="Text/liber_1.xhtml#sigil_toc_id_140"/>
       </navPoint>
-      <navPoint id="navPoint-154" playOrder="154">
+      <navPoint id="navPoint-154" playOrder="155">
         <navLabel>
           <text>XXXI</text>
         </navLabel>
         <content src="Text/liber_1.xhtml#sigil_toc_id_141"/>
       </navPoint>
-      <navPoint id="navPoint-155" playOrder="155">
+      <navPoint id="navPoint-155" playOrder="156">
         <navLabel>
           <text>XXXII</text>
         </navLabel>
         <content src="Text/liber_1.xhtml#sigil_toc_id_142"/>
       </navPoint>
-      <navPoint id="navPoint-156" playOrder="156">
+      <navPoint id="navPoint-156" playOrder="157">
         <navLabel>
           <text>XXXIII</text>
         </navLabel>
         <content src="Text/liber_1.xhtml#sigil_toc_id_143"/>
       </navPoint>
     </navPoint>
-    <navPoint id="navPoint-157" playOrder="157">
+    <navPoint id="navPoint-157" playOrder="158">
       <navLabel>
         <text>Liber II</text>
       </navLabel>
       <content src="Text/liber_2.xhtml"/>
-      <navPoint id="navPoint-158" playOrder="158">
+      <navPoint id="navPoint-158" playOrder="159">
         <navLabel>
           <text>I</text>
         </navLabel>
         <content src="Text/liber_2.xhtml#sigil_toc_id_144"/>
       </navPoint>
-      <navPoint id="navPoint-159" playOrder="159">
+      <navPoint id="navPoint-159" playOrder="160">
         <navLabel>
           <text>II</text>
         </navLabel>
         <content src="Text/liber_2.xhtml#sigil_toc_id_145"/>
       </navPoint>
-      <navPoint id="navPoint-160" playOrder="160">
+      <navPoint id="navPoint-160" playOrder="161">
         <navLabel>
           <text>III</text>
         </navLabel>
         <content src="Text/liber_2.xhtml#sigil_toc_id_146"/>
       </navPoint>
-      <navPoint id="navPoint-161" playOrder="161">
+      <navPoint id="navPoint-161" playOrder="162">
         <navLabel>
           <text>IV</text>
         </navLabel>
         <content src="Text/liber_2.xhtml#sigil_toc_id_147"/>
       </navPoint>
-      <navPoint id="navPoint-162" playOrder="162">
+      <navPoint id="navPoint-162" playOrder="163">
         <navLabel>
           <text>V</text>
         </navLabel>
         <content src="Text/liber_2.xhtml#sigil_toc_id_148"/>
       </navPoint>
-      <navPoint id="navPoint-163" playOrder="163">
+      <navPoint id="navPoint-163" playOrder="164">
         <navLabel>
           <text>VI</text>
         </navLabel>
         <content src="Text/liber_2.xhtml#sigil_toc_id_149"/>
       </navPoint>
-      <navPoint id="navPoint-164" playOrder="164">
+      <navPoint id="navPoint-164" playOrder="165">
         <navLabel>
           <text>VII</text>
         </navLabel>
         <content src="Text/liber_2.xhtml#sigil_toc_id_150"/>
       </navPoint>
-      <navPoint id="navPoint-165" playOrder="165">
+      <navPoint id="navPoint-165" playOrder="166">
         <navLabel>
           <text>VIII</text>
         </navLabel>
         <content src="Text/liber_2.xhtml#sigil_toc_id_151"/>
       </navPoint>
-      <navPoint id="navPoint-166" playOrder="166">
+      <navPoint id="navPoint-166" playOrder="167">
         <navLabel>
           <text>IX</text>
         </navLabel>
         <content src="Text/liber_2.xhtml#sigil_toc_id_152"/>
       </navPoint>
-      <navPoint id="navPoint-167" playOrder="167">
+      <navPoint id="navPoint-167" playOrder="168">
         <navLabel>
           <text>X</text>
         </navLabel>
         <content src="Text/liber_2.xhtml#sigil_toc_id_153"/>
       </navPoint>
-      <navPoint id="navPoint-168" playOrder="168">
+      <navPoint id="navPoint-168" playOrder="169">
         <navLabel>
           <text>XI</text>
         </navLabel>
         <content src="Text/liber_2.xhtml#sigil_toc_id_154"/>
       </navPoint>
-      <navPoint id="navPoint-169" playOrder="169">
+      <navPoint id="navPoint-169" playOrder="170">
         <navLabel>
           <text>XII</text>
         </navLabel>
         <content src="Text/liber_2.xhtml#sigil_toc_id_155"/>
       </navPoint>
-      <navPoint id="navPoint-170" playOrder="170">
+      <navPoint id="navPoint-170" playOrder="171">
         <navLabel>
           <text>XIII</text>
         </navLabel>
         <content src="Text/liber_2.xhtml#sigil_toc_id_156"/>
       </navPoint>
-      <navPoint id="navPoint-171" playOrder="171">
+      <navPoint id="navPoint-171" playOrder="172">
         <navLabel>
           <text>XIV</text>
         </navLabel>
         <content src="Text/liber_2.xhtml#sigil_toc_id_157"/>
       </navPoint>
-      <navPoint id="navPoint-172" playOrder="172">
+      <navPoint id="navPoint-172" playOrder="173">
         <navLabel>
           <text>XV</text>
         </navLabel>
         <content src="Text/liber_2.xhtml#sigil_toc_id_158"/>
       </navPoint>
-      <navPoint id="navPoint-173" playOrder="173">
+      <navPoint id="navPoint-173" playOrder="174">
         <navLabel>
           <text>XVI</text>
         </navLabel>
         <content src="Text/liber_2.xhtml#sigil_toc_id_159"/>
       </navPoint>
-      <navPoint id="navPoint-174" playOrder="174">
+      <navPoint id="navPoint-174" playOrder="175">
         <navLabel>
           <text>XVII</text>
         </navLabel>
         <content src="Text/liber_2.xhtml#sigil_toc_id_160"/>
       </navPoint>
-      <navPoint id="navPoint-175" playOrder="175">
+      <navPoint id="navPoint-175" playOrder="176">
         <navLabel>
           <text>XVIII</text>
         </navLabel>
         <content src="Text/liber_2.xhtml#sigil_toc_id_161"/>
       </navPoint>
-      <navPoint id="navPoint-176" playOrder="176">
+      <navPoint id="navPoint-176" playOrder="177">
         <navLabel>
           <text>XIX</text>
         </navLabel>
         <content src="Text/liber_2.xhtml#sigil_toc_id_162"/>
       </navPoint>
-      <navPoint id="navPoint-177" playOrder="177">
+      <navPoint id="navPoint-177" playOrder="178">
         <navLabel>
           <text>XX</text>
         </navLabel>
         <content src="Text/liber_2.xhtml#sigil_toc_id_163"/>
       </navPoint>
-      <navPoint id="navPoint-178" playOrder="178">
+      <navPoint id="navPoint-178" playOrder="179">
         <navLabel>
           <text>XXI</text>
         </navLabel>
         <content src="Text/liber_2.xhtml#sigil_toc_id_164"/>
       </navPoint>
-      <navPoint id="navPoint-179" playOrder="179">
+      <navPoint id="navPoint-179" playOrder="180">
         <navLabel>
           <text>XXII</text>
         </navLabel>
         <content src="Text/liber_2.xhtml#sigil_toc_id_165"/>
       </navPoint>
     </navPoint>
-    <navPoint id="navPoint-180" playOrder="180">
+    <navPoint id="navPoint-180" playOrder="181">
       <navLabel>
         <text>Liber III</text>
       </navLabel>
       <content src="Text/liber_3.xhtml"/>
-      <navPoint id="navPoint-181" playOrder="181">
+      <navPoint id="navPoint-181" playOrder="182">
         <navLabel>
           <text>I</text>
         </navLabel>
         <content src="Text/liber_3.xhtml#sigil_toc_id_166"/>
       </navPoint>
-      <navPoint id="navPoint-182" playOrder="182">
+      <navPoint id="navPoint-182" playOrder="183">
         <navLabel>
           <text>II</text>
         </navLabel>
         <content src="Text/liber_3.xhtml#sigil_toc_id_167"/>
       </navPoint>
-      <navPoint id="navPoint-183" playOrder="183">
+      <navPoint id="navPoint-183" playOrder="184">
         <navLabel>
           <text>III</text>
         </navLabel>
         <content src="Text/liber_3.xhtml#sigil_toc_id_168"/>
       </navPoint>
-      <navPoint id="navPoint-184" playOrder="184">
+      <navPoint id="navPoint-184" playOrder="185">
         <navLabel>
           <text>IV</text>
         </navLabel>
         <content src="Text/liber_3.xhtml#sigil_toc_id_169"/>
       </navPoint>
-      <navPoint id="navPoint-185" playOrder="185">
+      <navPoint id="navPoint-185" playOrder="186">
         <navLabel>
           <text>V</text>
         </navLabel>
         <content src="Text/liber_3.xhtml#sigil_toc_id_170"/>
       </navPoint>
-      <navPoint id="navPoint-186" playOrder="186">
+      <navPoint id="navPoint-186" playOrder="187">
         <navLabel>
           <text>VI</text>
         </navLabel>
         <content src="Text/liber_3.xhtml#sigil_toc_id_171"/>
       </navPoint>
-      <navPoint id="navPoint-187" playOrder="187">
+      <navPoint id="navPoint-187" playOrder="188">
         <navLabel>
           <text>VII</text>
         </navLabel>
         <content src="Text/liber_3.xhtml#sigil_toc_id_172"/>
       </navPoint>
-      <navPoint id="navPoint-188" playOrder="188">
+      <navPoint id="navPoint-188" playOrder="189">
         <navLabel>
           <text>VIII</text>
         </navLabel>
         <content src="Text/liber_3.xhtml#sigil_toc_id_173"/>
       </navPoint>
-      <navPoint id="navPoint-189" playOrder="189">
+      <navPoint id="navPoint-189" playOrder="190">
         <navLabel>
           <text>IX</text>
         </navLabel>
         <content src="Text/liber_3.xhtml#sigil_toc_id_174"/>
       </navPoint>
-      <navPoint id="navPoint-190" playOrder="190">
+      <navPoint id="navPoint-190" playOrder="191">
         <navLabel>
           <text>X</text>
         </navLabel>
         <content src="Text/liber_3.xhtml#sigil_toc_id_175"/>
       </navPoint>
     </navPoint>
-    <navPoint id="navPoint-191" playOrder="191">
+    <navPoint id="navPoint-191" playOrder="192">
       <navLabel>
         <text>Liber IV</text>
       </navLabel>
       <content src="Text/liber_4.xhtml"/>
-      <navPoint id="navPoint-192" playOrder="192">
+      <navPoint id="navPoint-192" playOrder="193">
         <navLabel>
           <text>I</text>
         </navLabel>
         <content src="Text/liber_4.xhtml#sigil_toc_id_176"/>
       </navPoint>
-      <navPoint id="navPoint-193" playOrder="193">
+      <navPoint id="navPoint-193" playOrder="194">
         <navLabel>
           <text>II</text>
         </navLabel>
         <content src="Text/liber_4.xhtml#sigil_toc_id_177"/>
       </navPoint>
-      <navPoint id="navPoint-194" playOrder="194">
+      <navPoint id="navPoint-194" playOrder="195">
         <navLabel>
           <text>III</text>
         </navLabel>
         <content src="Text/liber_4.xhtml#sigil_toc_id_178"/>
       </navPoint>
-      <navPoint id="navPoint-195" playOrder="195">
+      <navPoint id="navPoint-195" playOrder="196">
         <navLabel>
           <text>IV</text>
         </navLabel>
         <content src="Text/liber_4.xhtml#sigil_toc_id_179"/>
       </navPoint>
-      <navPoint id="navPoint-196" playOrder="196">
+      <navPoint id="navPoint-196" playOrder="197">
         <navLabel>
           <text>V</text>
         </navLabel>
         <content src="Text/liber_4.xhtml#sigil_toc_id_180"/>
       </navPoint>
-      <navPoint id="navPoint-197" playOrder="197">
+      <navPoint id="navPoint-197" playOrder="198">
         <navLabel>
           <text>VI</text>
         </navLabel>
         <content src="Text/liber_4.xhtml#sigil_toc_id_181"/>
       </navPoint>
-      <navPoint id="navPoint-198" playOrder="198">
+      <navPoint id="navPoint-198" playOrder="199">
         <navLabel>
           <text>VII</text>
         </navLabel>
         <content src="Text/liber_4.xhtml#sigil_toc_id_182"/>
       </navPoint>
-      <navPoint id="navPoint-199" playOrder="199">
+      <navPoint id="navPoint-199" playOrder="200">
         <navLabel>
           <text>VIII</text>
         </navLabel>
         <content src="Text/liber_4.xhtml#sigil_toc_id_183"/>
       </navPoint>
-      <navPoint id="navPoint-200" playOrder="200">
+      <navPoint id="navPoint-200" playOrder="201">
         <navLabel>
           <text>IX</text>
         </navLabel>
         <content src="Text/liber_4.xhtml#sigil_toc_id_184"/>
       </navPoint>
-      <navPoint id="navPoint-201" playOrder="201">
+      <navPoint id="navPoint-201" playOrder="202">
         <navLabel>
           <text>X</text>
         </navLabel>
         <content src="Text/liber_4.xhtml#sigil_toc_id_185"/>
       </navPoint>
-      <navPoint id="navPoint-202" playOrder="202">
+      <navPoint id="navPoint-202" playOrder="203">
         <navLabel>
           <text>XI</text>
         </navLabel>
         <content src="Text/liber_4.xhtml#sigil_toc_id_186"/>
       </navPoint>
     </navPoint>
-    <navPoint id="navPoint-203" playOrder="203">
+    <navPoint id="navPoint-203" playOrder="204">
       <navLabel>
         <text>Liber V</text>
       </navLabel>
       <content src="Text/liber_5.xhtml"/>
-      <navPoint id="navPoint-204" playOrder="204">
+      <navPoint id="navPoint-204" playOrder="205">
         <navLabel>
           <text>I</text>
         </navLabel>
         <content src="Text/liber_5.xhtml#sigil_toc_id_187"/>
       </navPoint>
-      <navPoint id="navPoint-205" playOrder="205">
+      <navPoint id="navPoint-205" playOrder="206">
         <navLabel>
           <text>II</text>
         </navLabel>
         <content src="Text/liber_5.xhtml#sigil_toc_id_188"/>
       </navPoint>
-      <navPoint id="navPoint-206" playOrder="206">
+      <navPoint id="navPoint-206" playOrder="207">
         <navLabel>
           <text>III</text>
         </navLabel>
         <content src="Text/liber_5.xhtml#sigil_toc_id_189"/>
       </navPoint>
-      <navPoint id="navPoint-207" playOrder="207">
+      <navPoint id="navPoint-207" playOrder="208">
         <navLabel>
           <text>IV</text>
         </navLabel>
         <content src="Text/liber_5.xhtml#sigil_toc_id_190"/>
       </navPoint>
-      <navPoint id="navPoint-208" playOrder="208">
+      <navPoint id="navPoint-208" playOrder="209">
         <navLabel>
           <text>V</text>
         </navLabel>
         <content src="Text/liber_5.xhtml#sigil_toc_id_191"/>
       </navPoint>
-      <navPoint id="navPoint-209" playOrder="209">
+      <navPoint id="navPoint-209" playOrder="210">
         <navLabel>
           <text>VI</text>
         </navLabel>
         <content src="Text/liber_5.xhtml#sigil_toc_id_192"/>
       </navPoint>
-      <navPoint id="navPoint-210" playOrder="210">
+      <navPoint id="navPoint-210" playOrder="211">
         <navLabel>
           <text>VII</text>
         </navLabel>
         <content src="Text/liber_5.xhtml#sigil_toc_id_193"/>
       </navPoint>
-      <navPoint id="navPoint-211" playOrder="211">
+      <navPoint id="navPoint-211" playOrder="212">
         <navLabel>
           <text>VIII</text>
         </navLabel>
         <content src="Text/liber_5.xhtml#sigil_toc_id_194"/>
       </navPoint>
-      <navPoint id="navPoint-212" playOrder="212">
+      <navPoint id="navPoint-212" playOrder="213">
         <navLabel>
           <text>IX</text>
         </navLabel>
         <content src="Text/liber_5.xhtml#sigil_toc_id_195"/>
       </navPoint>
-      <navPoint id="navPoint-213" playOrder="213">
+      <navPoint id="navPoint-213" playOrder="214">
         <navLabel>
           <text>X</text>
         </navLabel>
         <content src="Text/liber_5.xhtml#sigil_toc_id_196"/>
       </navPoint>
-      <navPoint id="navPoint-214" playOrder="214">
+      <navPoint id="navPoint-214" playOrder="215">
         <navLabel>
           <text>XI</text>
         </navLabel>
         <content src="Text/liber_5.xhtml#sigil_toc_id_197"/>
       </navPoint>
-      <navPoint id="navPoint-215" playOrder="215">
+      <navPoint id="navPoint-215" playOrder="216">
         <navLabel>
           <text>XII</text>
         </navLabel>
         <content src="Text/liber_5.xhtml#sigil_toc_id_198"/>
       </navPoint>
-      <navPoint id="navPoint-216" playOrder="216">
+      <navPoint id="navPoint-216" playOrder="217">
         <navLabel>
           <text>XIII</text>
         </navLabel>
         <content src="Text/liber_5.xhtml#sigil_toc_id_199"/>
       </navPoint>
     </navPoint>
-    <navPoint id="navPoint-217" playOrder="217">
+    <navPoint id="navPoint-217" playOrder="218">
       <navLabel>
         <text>Liber VI</text>
       </navLabel>
       <content src="Text/liber_6.xhtml"/>
-      <navPoint id="navPoint-218" playOrder="218">
+      <navPoint id="navPoint-218" playOrder="219">
         <navLabel>
           <text>I</text>
         </navLabel>
         <content src="Text/liber_6.xhtml#sigil_toc_id_200"/>
       </navPoint>
-      <navPoint id="navPoint-219" playOrder="219">
+      <navPoint id="navPoint-219" playOrder="220">
         <navLabel>
           <text>II</text>
         </navLabel>
         <content src="Text/liber_6.xhtml#sigil_toc_id_201"/>
       </navPoint>
-      <navPoint id="navPoint-220" playOrder="220">
+      <navPoint id="navPoint-220" playOrder="221">
         <navLabel>
           <text>III</text>
         </navLabel>
         <content src="Text/liber_6.xhtml#sigil_toc_id_202"/>
       </navPoint>
-      <navPoint id="navPoint-221" playOrder="221">
+      <navPoint id="navPoint-221" playOrder="222">
         <navLabel>
           <text>IV</text>
         </navLabel>
         <content src="Text/liber_6.xhtml#sigil_toc_id_203"/>
       </navPoint>
-      <navPoint id="navPoint-222" playOrder="222">
+      <navPoint id="navPoint-222" playOrder="223">
         <navLabel>
           <text>V</text>
         </navLabel>
         <content src="Text/liber_6.xhtml#sigil_toc_id_204"/>
       </navPoint>
-      <navPoint id="navPoint-223" playOrder="223">
+      <navPoint id="navPoint-223" playOrder="224">
         <navLabel>
           <text>VI</text>
         </navLabel>
         <content src="Text/liber_6.xhtml#sigil_toc_id_205"/>
       </navPoint>
-      <navPoint id="navPoint-224" playOrder="224">
+      <navPoint id="navPoint-224" playOrder="225">
         <navLabel>
           <text>VII</text>
         </navLabel>
         <content src="Text/liber_6.xhtml#sigil_toc_id_206"/>
       </navPoint>
-      <navPoint id="navPoint-225" playOrder="225">
+      <navPoint id="navPoint-225" playOrder="226">
         <navLabel>
           <text>VIII</text>
         </navLabel>
         <content src="Text/liber_6.xhtml#sigil_toc_id_207"/>
       </navPoint>
-      <navPoint id="navPoint-226" playOrder="226">
+      <navPoint id="navPoint-226" playOrder="227">
         <navLabel>
           <text>IX</text>
         </navLabel>
         <content src="Text/liber_6.xhtml#sigil_toc_id_208"/>
       </navPoint>
-      <navPoint id="navPoint-227" playOrder="227">
+      <navPoint id="navPoint-227" playOrder="228">
         <navLabel>
           <text>X</text>
         </navLabel>
         <content src="Text/liber_6.xhtml#sigil_toc_id_209"/>
       </navPoint>
     </navPoint>
-    <navPoint id="navPoint-228" playOrder="228">
+    <navPoint id="navPoint-228" playOrder="229">
       <navLabel>
         <text>Liber VII</text>
       </navLabel>
       <content src="Text/liber_7.xhtml"/>
-      <navPoint id="navPoint-229" playOrder="229">
+      <navPoint id="navPoint-229" playOrder="230">
         <navLabel>
           <text>I</text>
         </navLabel>
         <content src="Text/liber_7.xhtml#sigil_toc_id_210"/>
       </navPoint>
-      <navPoint id="navPoint-230" playOrder="230">
+      <navPoint id="navPoint-230" playOrder="231">
         <navLabel>
           <text>II</text>
         </navLabel>
         <content src="Text/liber_7.xhtml#sigil_toc_id_211"/>
       </navPoint>
-      <navPoint id="navPoint-231" playOrder="231">
+      <navPoint id="navPoint-231" playOrder="232">
         <navLabel>
           <text>III</text>
         </navLabel>
         <content src="Text/liber_7.xhtml#sigil_toc_id_212"/>
       </navPoint>
-      <navPoint id="navPoint-232" playOrder="232">
+      <navPoint id="navPoint-232" playOrder="233">
         <navLabel>
           <text>IV</text>
         </navLabel>
         <content src="Text/liber_7.xhtml#sigil_toc_id_213"/>
       </navPoint>
-      <navPoint id="navPoint-233" playOrder="233">
+      <navPoint id="navPoint-233" playOrder="234">
         <navLabel>
           <text>V</text>
         </navLabel>
         <content src="Text/liber_7.xhtml#sigil_toc_id_214"/>
       </navPoint>
-      <navPoint id="navPoint-234" playOrder="234">
+      <navPoint id="navPoint-234" playOrder="235">
         <navLabel>
           <text>VI</text>
         </navLabel>
         <content src="Text/liber_7.xhtml#sigil_toc_id_215"/>
       </navPoint>
-      <navPoint id="navPoint-235" playOrder="235">
+      <navPoint id="navPoint-235" playOrder="236">
         <navLabel>
           <text>VII</text>
         </navLabel>
         <content src="Text/liber_7.xhtml#sigil_toc_id_216"/>
       </navPoint>
-      <navPoint id="navPoint-236" playOrder="236">
+      <navPoint id="navPoint-236" playOrder="237">
         <navLabel>
           <text>VIII</text>
         </navLabel>
         <content src="Text/liber_7.xhtml#sigil_toc_id_217"/>
       </navPoint>
-      <navPoint id="navPoint-237" playOrder="237">
+      <navPoint id="navPoint-237" playOrder="238">
         <navLabel>
           <text>IX</text>
         </navLabel>
         <content src="Text/liber_7.xhtml#sigil_toc_id_218"/>
       </navPoint>
-      <navPoint id="navPoint-238" playOrder="238">
+      <navPoint id="navPoint-238" playOrder="239">
         <navLabel>
           <text>X</text>
         </navLabel>
         <content src="Text/liber_7.xhtml#sigil_toc_id_219"/>
       </navPoint>
-      <navPoint id="navPoint-239" playOrder="239">
+      <navPoint id="navPoint-239" playOrder="240">
         <navLabel>
           <text>XI</text>
         </navLabel>
