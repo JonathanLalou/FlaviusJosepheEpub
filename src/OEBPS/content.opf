@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package version="2.0" unique-identifier="BookId" xmlns="http://www.idpf.org/2007/opf">
   <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>La Guerre des Judéens</dc:title>
     <dc:identifier opf:scheme="UUID" id="BookId">urn:uuid:1b25e6e3-330e-4b9a-8ab6-9312510b8661</dc:identifier>
     <dc:contributor opf:role="trl">Théodore REINACH</dc:contributor>
     <dc:contributor opf:role="trl">René HARMAND</dc:contributor>
@@ -16,7 +17,7 @@
     <dc:publisher>Jonathan Lalou</dc:publisher>
     <dc:language>fr-FR</dc:language>
     <dc:language>grc</dc:language>
-    <dc:creator alternate-script="Φλάβιος Ἰώσηπος" opf:file-as="Josephe, Flavius" opf:role="aut">Flavius Josephe</dc:creator>
+    <dc:creator  opf:file-as="Josephe, Flavius" opf:role="aut">Flavius Josephe</dc:creator>
     <dc:date opf:event="creation">2019-08-23</dc:date>
     <meta name="Sigil version" content="0.9.10" />
     <meta name="cover" content="cover.jpg" />
