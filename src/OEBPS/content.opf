@@ -2,7 +2,8 @@
 <package version="2.0" unique-identifier="BookId" xmlns="http://www.idpf.org/2007/opf">
   <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <dc:title>La Guerre des Judéens</dc:title>
-    <dc:identifier opf:scheme="UUID" id="BookId">urn:uuid:1b25e6e3-330e-4b9a-8ab6-9312510b8661</dc:identifier>
+    <dc:identifier opf:id="pub-identifier">urn:isbn:9782981871404</dc:identifier>
+<!--    <dc:identifier opf:scheme="UUID" id="BookId">urn:uuid:1b25e6e3-330e-4b9a-8ab6-9312510b8661</dc:identifier>-->
     <dc:contributor opf:role="trl">Théodore REINACH</dc:contributor>
     <dc:contributor opf:role="trl">René HARMAND</dc:contributor>
     <dc:contributor opf:role="trc">François-Dominique FOURNIER</dc:contributor>
